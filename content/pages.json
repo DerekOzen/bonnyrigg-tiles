@@ -9,11 +9,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-13T09:06:06.431Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-13T09:08:48.711Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-13T09:55:20.577Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-2",
@@ -25,11 +26,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-13T09:06:06.431Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-13T09:08:29.139Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-13T09:55:20.577Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3",
@@ -41,11 +43,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-13T09:06:06.431Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-13T09:08:29.139Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-13T09:55:20.577Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-4",
@@ -57,12 +60,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-13T09:06:06.431Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-13T09:07:25.086Z",
+    "updatedAt": "2026-11-13T09:55:20.577Z",
     "updatedBy": "joshua",
-    "isHome": true
+    "isHome": false
   },
   {
     "id": "pg-5",
@@ -74,11 +77,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-13T09:06:06.431Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-13T09:08:29.139Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-13T09:55:20.577Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-6",
@@ -90,11 +94,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-13T09:06:06.431Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-13T09:08:29.139Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-13T09:55:20.577Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-7",
@@ -106,11 +111,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-13T09:06:06.431Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-13T09:08:29.139Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-13T09:55:20.577Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-8",
@@ -122,11 +128,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-13T09:06:06.431Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-13T09:23:59.604Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-13T09:55:20.577Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-9",
@@ -138,11 +145,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-13T09:06:06.431Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-13T09:08:29.139Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-13T09:55:20.577Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-10",
@@ -154,10 +162,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-13T09:16:46.907Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-13T09:17:12.850Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-13T09:55:20.577Z",
+    "updatedBy": "joshua",
+    "isHome": false
   }
 ]
