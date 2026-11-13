@@ -9,11 +9,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-13T07:36:58.883Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-13T07:37:42.952Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-13T09:00:28.399Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-2",
@@ -25,11 +26,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-13T07:36:58.883Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-13T07:37:42.952Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-13T09:00:28.399Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3",
@@ -41,12 +43,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-13T07:36:58.883Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-13T07:37:24.271Z",
+    "updatedAt": "2026-11-13T09:00:28.399Z",
     "updatedBy": "joshua",
-    "isHome": true
+    "isHome": false
   },
   {
     "id": "pg-4",
@@ -58,11 +60,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-13T07:36:58.883Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-13T07:37:42.952Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-13T09:00:28.399Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-5",
@@ -74,10 +77,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-13T07:36:58.883Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-13T07:37:42.952Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-13T09:00:28.399Z",
+    "updatedBy": "joshua",
+    "isHome": false
   }
 ]
