@@ -235,7 +235,7 @@
   },
   {
     "id": "pg-15",
-    "path": "/home",
+    "path": "/",
     "type": "page",
     "title": "Tiles Sydney | Tile Showroom in Bonnyrigg | Bonnyrigg Tiles",
     "seoTitle": "Tiles Sydney | Tile Showroom in Bonnyrigg | Bonnyrigg Tiles",
@@ -246,8 +246,9 @@
     "status": "published",
     "createdAt": "2026-11-16T00:03:00.251Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-16T00:03:42.376Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-16T00:04:40.572Z",
+    "updatedBy": "joshua",
+    "isHome": true
   },
   {
     "id": "pg-16",
