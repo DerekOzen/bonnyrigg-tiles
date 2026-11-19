@@ -338,5 +338,21 @@
     "updatedAt": "2026-11-19T01:04:26.605Z",
     "updatedBy": "derek",
     "isHome": false
+  },
+  {
+    "id": "pg-21",
+    "path": "/home",
+    "type": "page",
+    "title": "Home",
+    "seoTitle": "Tiles Sydney | Bonnyrigg Tiles Showroom, South West Sydney",
+    "seoDescription": "Family-owned Sydney tile showroom in Bonnyrigg. Floor and wall tiles, bathroomware, tapware and trade supplies. Clearance floor tiles from $5 per m². Visit us.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "updatedAt": "2026-11-19T01:05:24.418Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-11-19T01:05:24.418Z",
+    "createdBy": "derek"
   }
 ]
