@@ -186,10 +186,10 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-19T10:01:45.090Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T10:01:45.090Z",
+    "updatedAt": "2026-11-19T10:04:25.474Z",
     "updatedBy": "derek"
   },
   {
@@ -202,10 +202,10 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-19T10:01:45.090Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T10:01:45.090Z",
+    "updatedAt": "2026-11-19T10:04:25.474Z",
     "updatedBy": "derek"
   },
   {
@@ -218,10 +218,10 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-19T10:01:45.090Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T10:01:45.090Z",
+    "updatedAt": "2026-11-19T10:04:25.474Z",
     "updatedBy": "derek"
   },
   {
@@ -234,10 +234,10 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-19T10:01:45.090Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T10:01:45.090Z",
+    "updatedAt": "2026-11-19T10:04:25.474Z",
     "updatedBy": "derek"
   },
   {
@@ -250,10 +250,10 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-19T10:01:45.090Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T10:01:45.090Z",
+    "updatedAt": "2026-11-19T10:04:25.474Z",
     "updatedBy": "derek"
   },
   {
@@ -266,10 +266,10 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-19T10:01:45.090Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T10:01:45.090Z",
+    "updatedAt": "2026-11-19T10:04:25.474Z",
     "updatedBy": "derek"
   },
   {
@@ -282,10 +282,10 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-19T10:01:45.090Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T10:01:45.090Z",
+    "updatedAt": "2026-11-19T10:04:25.474Z",
     "updatedBy": "derek"
   }
 ]
