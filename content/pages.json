@@ -160,5 +160,21 @@
     "createdBy": "derek",
     "updatedAt": "2026-11-19T01:08:56.886Z",
     "updatedBy": "derek"
+  },
+  {
+    "id": "pg-11",
+    "path": "/shop",
+    "type": "page",
+    "title": "Shop Tiles, Bathroomware & Trade Supplies | Bonnyrigg Tiles",
+    "seoTitle": "Shop Tiles, Bathroomware & Trade Supplies | Bonnyrigg Tiles",
+    "seoDescription": "Search the full Bonnyrigg Tiles range: tiles, bathroomware, tapware, kitchen sinks and trade supplies. Add what you need to one enquiry and we confirm stock.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-11-19T07:23:18.685Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-11-19T07:23:18.685Z",
+    "updatedBy": "joshua"
   }
 ]
