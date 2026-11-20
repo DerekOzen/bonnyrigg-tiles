@@ -1074,12 +1074,13 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "deleted",
     "category": "Product Categories",
     "createdAt": "2026-11-20T10:42:42.186Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-20T10:42:42.186Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-20T10:45:35.614Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-77",
