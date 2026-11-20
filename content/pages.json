@@ -170,11 +170,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-19T10:08:18.482Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-20T00:31:31.216Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-20T10:44:39.948Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-22",
@@ -186,11 +187,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-19T10:08:18.482Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-20T00:31:31.216Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-20T10:44:39.948Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-23",
@@ -202,11 +204,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-19T10:08:18.482Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-20T00:31:31.216Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-20T10:44:39.948Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-24",
@@ -218,11 +221,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-19T10:08:18.482Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-20T00:31:31.216Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-20T10:44:39.948Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-25",
@@ -234,11 +238,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-19T10:08:18.482Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-20T00:31:31.216Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-20T10:44:39.948Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-26",
@@ -250,11 +255,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-19T10:08:18.482Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-20T00:31:31.216Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-20T10:44:39.948Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-27",
@@ -266,11 +272,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-19T10:08:18.482Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-20T00:31:31.216Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-20T10:44:39.948Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-28",
@@ -1081,12 +1088,13 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "deleted",
     "category": "Product Categories",
     "createdAt": "2026-11-20T10:42:42.186Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-20T10:42:42.186Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-20T10:44:39.948Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-78",
@@ -1098,12 +1106,13 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "deleted",
     "category": "Product Categories",
     "createdAt": "2026-11-20T10:42:42.186Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-20T10:42:42.186Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-20T10:44:39.948Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-79",
@@ -1115,11 +1124,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "deleted",
     "category": "Product Categories",
     "createdAt": "2026-11-20T10:42:42.186Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-20T10:42:42.186Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-20T10:44:39.948Z",
+    "updatedBy": "derek",
+    "isHome": false
   }
 ]
