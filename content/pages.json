@@ -35,7 +35,7 @@
   {
     "id": "pg-3",
     "path": "/collections-tiles",
-    "type": "page",
+    "type": "product-category",
     "title": "Tiles for Sale Sydney | Floor, Wall and Outdoor Tiles",
     "seoTitle": "Tiles for Sale Sydney | Floor, Wall and Outdoor Tiles",
     "seoDescription": "Tiles for sale in Sydney from the Bonnyrigg showroom. Floor, wall, outdoor and bathroom tiles in marble, stone and concrete looks, 300 x 600 to large format.",
@@ -45,8 +45,8 @@
     "status": "published",
     "createdAt": "2026-11-19T01:08:39.441Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T01:08:56.886Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-20T00:31:31.216Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-4",
@@ -163,7 +163,7 @@
   {
     "id": "pg-11",
     "path": "/collections-bathroom-tiles",
-    "type": "page",
+    "type": "product-category",
     "title": "Bathroom Tiles Sydney | Floor, Wall and Shower Tiles",
     "seoTitle": "Bathroom Tiles Sydney | Floor, Wall and Shower Tiles",
     "seoDescription": "Bathroom tiles in Sydney for floors, walls and showers. Ranges that come in both 300 x 600 and 600 x 600, so floor and walls match. See them at Bonnyrigg.",
@@ -173,13 +173,13 @@
     "status": "published",
     "createdAt": "2026-11-19T10:01:45.090Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T10:02:11.264Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-20T00:31:31.216Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-13",
     "path": "/collections-bt-specials",
-    "type": "page",
+    "type": "product-category",
     "title": "BT Specials | Bonnyrigg Tiles Own Tile Ranges",
     "seoTitle": "BT Specials | Bonnyrigg Tiles Own Tile Ranges",
     "seoDescription": "BT Specials are the tile ranges carrying the Bonnyrigg Tiles name: BT Brazil Calcutta, BT Taj Mahal, BT Micro Cement and more. See all eight in the showroom.",
@@ -189,13 +189,13 @@
     "status": "published",
     "createdAt": "2026-11-19T10:01:45.090Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T10:04:25.474Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-20T00:31:31.216Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-14",
     "path": "/collections-clearance",
-    "type": "page",
+    "type": "product-category",
     "title": "Clearance Tiles Sydney | Floor Tiles From $5 per m²",
     "seoTitle": "Clearance Tiles Sydney | Floor Tiles From $5 per m²",
     "seoDescription": "Clearance floor tiles from $5 per m² at the Bonnyrigg Tiles showroom in Sydney. Final lines that will not be restocked. Visit early for the best choice.",
@@ -205,13 +205,13 @@
     "status": "published",
     "createdAt": "2026-11-19T10:01:45.090Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T10:04:25.474Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-20T00:31:31.216Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-15",
     "path": "/collections-floor-tiles",
-    "type": "page",
+    "type": "product-category",
     "title": "Floor Tiles Sydney | Porcelain and Ceramic Floor Tiles",
     "seoTitle": "Floor Tiles Sydney | Porcelain and Ceramic Floor Tiles",
     "seoDescription": "Floor tiles in Sydney for living areas, kitchens, bathrooms and laundries. Porcelain and ceramic in matt, lappato and polished finishes. See them in Bonnyrigg.",
@@ -221,13 +221,13 @@
     "status": "published",
     "createdAt": "2026-11-19T10:01:45.090Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T10:04:25.474Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-20T00:31:31.216Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-16",
     "path": "/collections-marble-look-tiles",
-    "type": "page",
+    "type": "product-category",
     "title": "Marble Look Tiles Sydney | Calacatta and Statuario Looks",
     "seoTitle": "Marble Look Tiles Sydney | Calacatta and Statuario Looks",
     "seoDescription": "Marble look tiles in Sydney: calacatta and statuario looks, polished to matt, in sizes up to 750 x 1500. See the veining in person at Bonnyrigg.",
@@ -237,13 +237,13 @@
     "status": "published",
     "createdAt": "2026-11-19T10:01:45.090Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T10:04:25.474Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-20T00:31:31.216Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-17",
     "path": "/collections-outdoor-tiles",
-    "type": "page",
+    "type": "product-category",
     "title": "Outdoor Tiles Sydney | Patio and Alfresco Tiles",
     "seoTitle": "Outdoor Tiles Sydney | Patio and Alfresco Tiles",
     "seoDescription": "Outdoor tiles in Sydney for patios, alfresco areas and paths. Indoor and outdoor finishes so one tile runs from inside to outside. See the range at Bonnyrigg.",
@@ -253,13 +253,13 @@
     "status": "published",
     "createdAt": "2026-11-19T10:01:45.090Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T10:04:25.474Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-20T00:31:31.216Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-18",
     "path": "/collections-stone-look-tiles",
-    "type": "page",
+    "type": "product-category",
     "title": "Stone Look Tiles Sydney | Travertine and Sandstone Looks",
     "seoTitle": "Stone Look Tiles Sydney | Travertine and Sandstone Looks",
     "seoDescription": "Stone look tiles in Sydney: travertine, sandstone and soft grey stone looks for floors, walls and outdoor areas. Compare them at the Bonnyrigg showroom.",
@@ -269,13 +269,13 @@
     "status": "published",
     "createdAt": "2026-11-19T10:01:45.090Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T10:04:25.474Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-20T00:31:31.216Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-19",
     "path": "/collections-wall-tiles",
-    "type": "page",
+    "type": "product-category",
     "title": "Wall Tiles Sydney | Bathroom, Kitchen and Feature Wall Tiles",
     "seoTitle": "Wall Tiles Sydney | Bathroom, Kitchen and Feature Wall Tiles",
     "seoDescription": "Wall tiles in Sydney for bathrooms, kitchen splashbacks and feature walls. Gloss, matt and textured finishes in 300 x 600 and larger. See them at Bonnyrigg.",
@@ -285,13 +285,13 @@
     "status": "published",
     "createdAt": "2026-11-19T10:01:45.090Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T10:04:25.474Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-20T00:31:31.216Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-20",
     "path": "/collections-adhesives",
-    "type": "page",
+    "type": "product-category",
     "title": "Tile Adhesive Sydney | Davco, Sika and Laticrete",
     "seoTitle": "Tile Adhesive Sydney | Davco, Sika and Laticrete",
     "seoDescription": "Tile adhesive in Sydney from Davco, Sika and Laticrete for walls, floors, large format tiles and natural stone. Powder and premixed, priced per bag.",
@@ -301,13 +301,13 @@
     "status": "published",
     "createdAt": "2026-11-19T10:08:18.482Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T10:10:13.669Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-20T00:31:31.216Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-22",
     "path": "/collections-angles-trims",
-    "type": "page",
+    "type": "product-category",
     "title": "Tile Trim Sydney | Aluminium, Brass and Stainless Angles",
     "seoTitle": "Tile Trim Sydney | Aluminium, Brass and Stainless Angles",
     "seoDescription": "Tile trim and angles in Sydney: square edge, round edge and L angle profiles in aluminium, brass and stainless from BAT Trims. Pick up at Bonnyrigg Tiles.",
@@ -317,13 +317,13 @@
     "status": "published",
     "createdAt": "2026-11-19T10:08:18.482Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T10:10:13.669Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-20T00:31:31.216Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-23",
     "path": "/collections-cement-mixers",
-    "type": "page",
+    "type": "product-category",
     "title": "Cement Mixers Sydney | Baron Electric Cement Mixers",
     "seoTitle": "Cement Mixers Sydney | Baron Electric Cement Mixers",
     "seoDescription": "Cement mixers in Sydney for tilers and builders, including Baron electric mixers. Check drum size and motor power, then pick up at Bonnyrigg Tiles.",
@@ -333,13 +333,13 @@
     "status": "published",
     "createdAt": "2026-11-19T10:08:18.482Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T10:10:13.669Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-20T00:31:31.216Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-24",
     "path": "/collections-grout-primer-additives",
-    "type": "page",
+    "type": "product-category",
     "title": "Tile Grout Sydney | Grout Colours, Primers and Additives",
     "seoTitle": "Tile Grout Sydney | Grout Colours, Primers and Additives",
     "seoDescription": "Tile grout in Sydney in colours from ASA, Davco, Laticrete, Sika and Maxisil, plus primers and additives. Match a grout colour to your tile at Bonnyrigg.",
@@ -349,13 +349,13 @@
     "status": "published",
     "createdAt": "2026-11-19T10:08:18.482Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T10:10:13.669Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-20T00:31:31.216Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-25",
     "path": "/collections-sand-cement",
-    "type": "page",
+    "type": "product-category",
     "title": "Sand and Cement Sydney | Sydney Sand and Cement Mixes",
     "seoTitle": "Sand and Cement Sydney | Sydney Sand and Cement Mixes",
     "seoDescription": "Sand and cement in Sydney: Sydney sand, brick sand, cement and premixed sand and cement in 20kg and 25kg bags. Load at the Bonnyrigg Tiles showroom.",
@@ -365,13 +365,13 @@
     "status": "published",
     "createdAt": "2026-11-19T10:08:18.482Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T10:10:13.669Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-20T00:31:31.216Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-26",
     "path": "/collections-sealers-cleaners",
-    "type": "page",
+    "type": "product-category",
     "title": "Tile Sealer Sydney | Grout Sealers and Tile Cleaners",
     "seoTitle": "Tile Sealer Sydney | Grout Sealers and Tile Cleaners",
     "seoDescription": "Tile sealers and cleaners in Sydney: penetrating sealers, grout sealers, grout haze removers and routine cleaners from Aqua Mix and more at Bonnyrigg Tiles.",
@@ -381,13 +381,13 @@
     "status": "published",
     "createdAt": "2026-11-19T10:08:18.482Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T10:10:13.669Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-20T00:31:31.216Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-27",
     "path": "/collections-silicone",
-    "type": "page",
+    "type": "product-category",
     "title": "Silicone Sealant Sydney | Colour Matched Bathroom Silicone",
     "seoTitle": "Silicone Sealant Sydney | Colour Matched Bathroom Silicone",
     "seoDescription": "Silicone sealant in Sydney: colour matched, mould resistant silicone for showers, kitchens and movement joints from Soudal and Maxisil at Bonnyrigg Tiles.",
@@ -397,13 +397,13 @@
     "status": "published",
     "createdAt": "2026-11-19T10:08:18.482Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T10:10:13.669Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-20T00:31:31.216Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-28",
     "path": "/collections-tiling-tools",
-    "type": "page",
+    "type": "product-category",
     "title": "Tiling Tools Sydney | Trowels, Spacers, Nippers and Blades",
     "seoTitle": "Tiling Tools Sydney | Trowels, Spacers, Nippers and Blades",
     "seoDescription": "Tiling tools in Sydney: notched trowels, spacers, nippers, diamond blades, sponges and levels from Amark and more. Pick up with your tiles at Bonnyrigg Tiles.",
@@ -413,13 +413,13 @@
     "status": "published",
     "createdAt": "2026-11-19T10:08:18.482Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T10:10:13.669Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-20T00:31:31.216Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-29",
     "path": "/collections-trade-supplies",
-    "type": "page",
+    "type": "product-category",
     "title": "Tiling Supplies Sydney | Adhesive, Grout, Sand and Cement",
     "seoTitle": "Tiling Supplies Sydney | Adhesive, Grout, Sand and Cement",
     "seoDescription": "Tiling supplies in Sydney for tilers, builders and DIY: adhesive, grout, sand and cement, waterproofing, silicone, trims and tools. Trade pick-up at Bonnyrigg.",
@@ -429,13 +429,13 @@
     "status": "published",
     "createdAt": "2026-11-19T10:08:18.482Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T10:10:13.669Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-20T00:31:31.216Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-30",
     "path": "/collections-waterproofing",
-    "type": "page",
+    "type": "product-category",
     "title": "Waterproofing Supplies Sydney | Membranes and Primers",
     "seoTitle": "Waterproofing Supplies Sydney | Membranes and Primers",
     "seoDescription": "Waterproofing supplies in Sydney: liquid membranes from Davco, Laticrete, Sika and Duram in 4 to 20 litre pails for showers, bathrooms and balconies.",
@@ -445,13 +445,13 @@
     "status": "published",
     "createdAt": "2026-11-19T10:08:18.482Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T10:10:13.669Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-20T00:31:31.216Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-31",
     "path": "/collections-basins",
-    "type": "page",
+    "type": "product-category",
     "title": "Bathroom Basins Sydney | Above Counter, Inset and Wall Hung",
     "seoTitle": "Bathroom Basins Sydney | Above Counter, Inset and Wall Hung",
     "seoDescription": "Bathroom basins in Sydney: above counter, inset, undermount and wall hung basins in ceramic and stone, with matching basin mixers. Enquire at Bonnyrigg Tiles.",
@@ -461,13 +461,13 @@
     "status": "published",
     "createdAt": "2026-11-19T10:13:45.005Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T10:14:08.610Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-20T00:31:31.216Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-32",
     "path": "/collections-bathroom-accessories",
-    "type": "page",
+    "type": "product-category",
     "title": "Bathroom Accessories Sydney | Robe Hooks | Bonnyrigg Tiles",
     "seoTitle": "Bathroom Accessories Sydney | Robe Hooks | Bonnyrigg Tiles",
     "seoDescription": "Bathroom accessories in Sydney: the Glamour robe hook in black and chrome and the Luxury robe hook in black. End-of-line stock, so check availability first.",
@@ -477,13 +477,13 @@
     "status": "published",
     "createdAt": "2026-11-19T10:13:45.005Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T10:14:08.610Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-20T00:31:31.216Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-33",
     "path": "/collections-bathroom-ware",
-    "type": "page",
+    "type": "product-category",
     "title": "Bathroom Supplies Sydney | Vanities, Baths, Toilets and More",
     "seoTitle": "Bathroom Supplies Sydney | Vanities, Baths, Toilets and More",
     "seoDescription": "Bathroom supplies in Sydney from the Bonnyrigg showroom: vanities, baths, toilets, mirrors, accessories and grates, with tapware and tiles alongside.",
@@ -493,13 +493,13 @@
     "status": "published",
     "createdAt": "2026-11-19T10:13:45.005Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T10:14:08.610Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-20T00:31:31.216Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-34",
     "path": "/collections-bath-tub",
-    "type": "page",
+    "type": "product-category",
     "title": "Freestanding Baths Sydney | Back to Wall and Corner Baths",
     "seoTitle": "Freestanding Baths Sydney | Back to Wall and Corner Baths",
     "seoDescription": "Freestanding, back to wall and corner baths in Sydney from the KDK Home range. Acrylic baths from 1000 to 2000 long. See sizes and finishes at Bonnyrigg Tiles.",
@@ -509,13 +509,13 @@
     "status": "published",
     "createdAt": "2026-11-19T10:13:45.005Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T10:14:08.610Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-20T00:31:31.216Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-35",
     "path": "/collections-floor-waste-grates",
-    "type": "page",
+    "type": "product-category",
     "title": "Shower Grates Sydney | Tile Insert and Linear Floor Wastes",
     "seoTitle": "Shower Grates Sydney | Tile Insert and Linear Floor Wastes",
     "seoDescription": "Shower grates and floor wastes in Sydney: Lauxes linear and tile insert grates in six finishes, plus stainless steel floor wastes. Pick up at Bonnyrigg.",
@@ -525,13 +525,13 @@
     "status": "published",
     "createdAt": "2026-11-19T10:13:45.005Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T10:14:08.610Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-20T00:31:31.216Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-36",
     "path": "/collections-mirror",
-    "type": "page",
+    "type": "product-category",
     "title": "Bathroom Mirrors Sydney | LED Mirrors and Shaving Cabinets",
     "seoTitle": "Bathroom Mirrors Sydney | LED Mirrors and Shaving Cabinets",
     "seoDescription": "Bathroom mirrors in Sydney: LED mirrors with touch controls and three light colours, framed and plain mirrors, and shaving cabinets to match your vanity.",
@@ -541,13 +541,13 @@
     "status": "published",
     "createdAt": "2026-11-19T10:13:45.005Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T10:14:08.610Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-20T00:31:31.216Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-37",
     "path": "/collections-toilet",
-    "type": "page",
+    "type": "product-category",
     "title": "Toilet Suites Sydney | Back to Wall and Rimless Toilets",
     "seoTitle": "Toilet Suites Sydney | Back to Wall and Rimless Toilets",
     "seoDescription": "Toilet suites in Sydney: back to wall, close coupled and rimless toilets with soft close seats from Poseidon. Check set-out and trap type with our team.",
@@ -557,13 +557,13 @@
     "status": "published",
     "createdAt": "2026-11-19T10:13:45.005Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T10:14:08.610Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-20T00:31:31.216Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-38",
     "path": "/collections-vanity",
-    "type": "page",
+    "type": "product-category",
     "title": "Bathroom Vanities Sydney | Wall Hung and Freestanding",
     "seoTitle": "Bathroom Vanities Sydney | Wall Hung and Freestanding",
     "seoDescription": "Bathroom vanities in Sydney: wall hung, freestanding and slimline units from 600 to 1800 wide with stone or ceramic tops. Otti and Poseidon ranges at Bonnyrigg.",
@@ -573,13 +573,13 @@
     "status": "published",
     "createdAt": "2026-11-19T10:13:45.005Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T10:14:08.610Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-20T00:31:31.216Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-39",
     "path": "/collections-basin-mixer",
-    "type": "page",
+    "type": "product-category",
     "title": "Basin Mixers Sydney | Standard and High Rise Basin Taps",
     "seoTitle": "Basin Mixers Sydney | Standard and High Rise Basin Taps",
     "seoDescription": "Basin mixers in Sydney: standard, high rise and wall basin mixers from Millennium and ACL in chrome, matte black and brushed finishes. Bonnyrigg Tiles.",
@@ -589,13 +589,13 @@
     "status": "published",
     "createdAt": "2026-11-19T10:15:33.280Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T10:15:47.093Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-20T00:31:31.216Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-40",
     "path": "/collections-bath-spouts",
-    "type": "page",
+    "type": "product-category",
     "title": "Bath Spouts Sydney | Swivel and Wall Bath Outlets",
     "seoTitle": "Bath Spouts Sydney | Swivel and Wall Bath Outlets",
     "seoDescription": "Bath spouts and outlets in Sydney: fixed and swivel spouts and bath fillers from Millennium and ACL in six finishes, plus four end-of-line spouts.",
@@ -605,13 +605,13 @@
     "status": "published",
     "createdAt": "2026-11-19T10:15:33.280Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T10:15:47.093Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-20T00:31:31.216Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-41",
     "path": "/collections-combo-mixer",
-    "type": "page",
+    "type": "product-category",
     "title": "Combination Mixers Sydney | Wall Mixers with Diverter",
     "seoTitle": "Combination Mixers Sydney | Wall Mixers with Diverter",
     "seoDescription": "Combination mixers in Sydney: wall mixers with a built-in diverter from Millennium and ACL in six finishes, plus one end-of-line combination wall mixer.",
@@ -621,13 +621,13 @@
     "status": "published",
     "createdAt": "2026-11-19T10:15:33.280Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T10:15:47.093Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-20T00:31:31.216Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-42",
     "path": "/collections-kitchen",
-    "type": "page",
+    "type": "product-category",
     "title": "Kitchen Sinks and Mixers Sydney | Bonnyrigg Tiles",
     "seoTitle": "Kitchen Sinks and Mixers Sydney | Bonnyrigg Tiles",
     "seoDescription": "Kitchen sinks and kitchen mixers in Sydney: stainless and quartz sinks from Poseidon with Millennium sink mixers. Compare sizes at Bonnyrigg Tiles.",
@@ -637,13 +637,13 @@
     "status": "published",
     "createdAt": "2026-11-19T10:15:33.280Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T10:15:47.093Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-20T00:31:31.216Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-43",
     "path": "/collections-kitchen-mixer",
-    "type": "page",
+    "type": "product-category",
     "title": "Kitchen Sink Mixers Sydney | Pull Out Kitchen Taps",
     "seoTitle": "Kitchen Sink Mixers Sydney | Pull Out Kitchen Taps",
     "seoDescription": "Kitchen sink mixers in Sydney: pull out and gooseneck mixers from Millennium in chrome, matt black, brushed nickel, brass and gun metal. Bonnyrigg Tiles.",
@@ -653,13 +653,13 @@
     "status": "published",
     "createdAt": "2026-11-19T10:15:33.280Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T10:15:47.093Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-20T00:31:31.216Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-44",
     "path": "/collections-kitchen-sinks",
-    "type": "page",
+    "type": "product-category",
     "title": "Kitchen Sinks Sydney | Stainless Steel and Undermount Sinks",
     "seoTitle": "Kitchen Sinks Sydney | Stainless Steel and Undermount Sinks",
     "seoDescription": "Kitchen sinks in Sydney: single and double bowl sinks in stainless steel, quartz and fireclay, in topmount, undermount and farmhouse styles. Bonnyrigg Tiles.",
@@ -669,13 +669,13 @@
     "status": "published",
     "createdAt": "2026-11-19T10:15:33.280Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T10:15:47.093Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-20T00:31:31.216Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-45",
     "path": "/collections-showers",
-    "type": "page",
+    "type": "product-category",
     "title": "Shower Heads Sydney | Rails, Twin Showers and Rain Heads",
     "seoTitle": "Shower Heads Sydney | Rails, Twin Showers and Rain Heads",
     "seoDescription": "Shower heads, rails and twin showers in Sydney: overhead heads, hand showers and combination showers from Millennium and ACL in six finishes.",
@@ -685,13 +685,13 @@
     "status": "published",
     "createdAt": "2026-11-19T10:15:33.280Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T10:15:47.093Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-20T00:31:31.216Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-46",
     "path": "/collections-tap-sets",
-    "type": "page",
+    "type": "product-category",
     "title": "Tap Sets Sydney | Wall Top Assemblies and Basin Sets",
     "seoTitle": "Tap Sets Sydney | Wall Top Assemblies and Basin Sets",
     "seoDescription": "Tap sets in Sydney: wall top assemblies, basin, bath and shower tap sets and washing machine stops from Millennium and ACL. Enquire at Bonnyrigg Tiles.",
@@ -701,13 +701,13 @@
     "status": "published",
     "createdAt": "2026-11-19T10:15:33.280Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T10:15:47.093Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-20T00:31:31.216Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-47",
     "path": "/collections-tapware",
-    "type": "page",
+    "type": "product-category",
     "title": "Tapware Sydney | Mixers, Spouts and Showers",
     "seoTitle": "Tapware Sydney | Mixers, Spouts and Showers",
     "seoDescription": "Tapware in Sydney: basin mixers, wall mixers, bath spouts, showers and kitchen mixers in chrome, matt black, brushed nickel and gun metal. Bonnyrigg showroom.",
@@ -717,13 +717,13 @@
     "status": "published",
     "createdAt": "2026-11-19T10:15:33.280Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T10:15:47.093Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-20T00:31:31.216Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-48",
     "path": "/collections-wall-mixer",
-    "type": "page",
+    "type": "product-category",
     "title": "Wall Mixers Sydney | Shower and Bath Wall Mixers",
     "seoTitle": "Wall Mixers Sydney | Shower and Bath Wall Mixers",
     "seoDescription": "Wall mixers in Sydney for showers and baths, with or without a diverter, in chrome and coloured finishes from Millennium and ACL at Bonnyrigg Tiles.",
@@ -733,8 +733,8 @@
     "status": "published",
     "createdAt": "2026-11-19T10:15:33.280Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T10:15:47.093Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-20T00:31:31.216Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-49",
