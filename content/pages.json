@@ -163,7 +163,7 @@
   {
     "id": "pg-49",
     "path": "/guides",
-    "type": "page",
+    "type": "post",
     "title": "Tile Guides | Slip Ratings, Sizes, Finishes and More",
     "seoTitle": "Tile Guides | Slip Ratings, Sizes, Finishes and More",
     "seoDescription": "Plain-English tile guides from Bonnyrigg Tiles: slip ratings, rectified tiles, how many tiles to order, finishes, sizes and layouts, adhesive and grout.",
@@ -173,14 +173,13 @@
     "status": "published",
     "createdAt": "2026-11-20T11:35:56.668Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-20T13:15:48.337Z",
-    "updatedBy": "derek",
-    "category": "Legal"
+    "updatedAt": "2026-11-22T22:01:06.562Z",
+    "updatedBy": "derek"
   },
   {
     "id": "pg-50",
     "path": "/guides-how-many-tiles-do-i-need",
-    "type": "page",
+    "type": "post",
     "title": "How Many Tiles Do I Need? | Tile Quantity Guide",
     "seoTitle": "How Many Tiles Do I Need? | Tile Quantity Guide",
     "seoDescription": "How to work out how many tiles you need: measure in square metres, convert to boxes, and add the right allowance for cuts and patterns. A Bonnyrigg Tiles guide.",
@@ -190,14 +189,13 @@
     "status": "published",
     "createdAt": "2026-11-20T11:35:56.668Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-20T13:15:48.337Z",
-    "updatedBy": "derek",
-    "category": "Legal"
+    "updatedAt": "2026-11-22T22:01:06.562Z",
+    "updatedBy": "derek"
   },
   {
     "id": "pg-51",
     "path": "/guides-rectified-tiles",
-    "type": "page",
+    "type": "post",
     "title": "Rectified Tiles Explained | Edges, Grout Lines and Cost",
     "seoTitle": "Rectified Tiles Explained | Edges, Grout Lines and Cost",
     "seoDescription": "What rectified tiles are, how they differ from cushion edge tiles, the grout gap they need and whether they cost more to buy and lay. A Bonnyrigg Tiles guide.",
@@ -207,14 +205,13 @@
     "status": "published",
     "createdAt": "2026-11-20T11:35:56.668Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-20T13:15:48.337Z",
-    "updatedBy": "derek",
-    "category": "Legal"
+    "updatedAt": "2026-11-22T22:01:06.562Z",
+    "updatedBy": "derek"
   },
   {
     "id": "pg-52",
     "path": "/guides-tile-adhesive-and-grout",
-    "type": "page",
+    "type": "post",
     "title": "Choosing Tile Adhesive and Grout | A Practical Guide",
     "seoTitle": "Choosing Tile Adhesive and Grout | A Practical Guide",
     "seoDescription": "How to choose tile adhesive and grout: which adhesive suits which tile, grout types, how to grout tiles and how to keep grout clean. A Bonnyrigg Tiles guide.",
@@ -224,14 +221,13 @@
     "status": "published",
     "createdAt": "2026-11-20T11:35:56.668Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-20T13:15:48.337Z",
-    "updatedBy": "derek",
-    "category": "Legal"
+    "updatedAt": "2026-11-22T22:01:06.562Z",
+    "updatedBy": "derek"
   },
   {
     "id": "pg-53",
     "path": "/guides-tile-finishes",
-    "type": "page",
+    "type": "post",
     "title": "Tile Finishes Explained | Matt, Lappato, Polished, External",
     "seoTitle": "Tile Finishes Explained | Matt, Lappato, Polished, External",
     "seoDescription": "Tile finishes explained: matt, lappato, polished, gloss and external. How each one looks, grips and cleans, and where it suits. A Bonnyrigg Tiles guide.",
@@ -241,14 +237,13 @@
     "status": "published",
     "createdAt": "2026-11-20T11:35:56.668Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-20T13:15:48.337Z",
-    "updatedBy": "derek",
-    "category": "Legal"
+    "updatedAt": "2026-11-22T22:01:06.562Z",
+    "updatedBy": "derek"
   },
   {
     "id": "pg-54",
     "path": "/guides-tile-sizes-and-layouts",
-    "type": "page",
+    "type": "post",
     "title": "Tile Sizes and Layouts | Large Format Tiles Guide",
     "seoTitle": "Tile Sizes and Layouts | Large Format Tiles Guide",
     "seoDescription": "A guide to tile sizes and layouts: 300 x 600 to large format, which size suits each room, layout patterns and what size does to laying cost. Bonnyrigg Tiles.",
@@ -258,14 +253,13 @@
     "status": "published",
     "createdAt": "2026-11-20T11:35:56.668Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-20T13:15:48.337Z",
-    "updatedBy": "derek",
-    "category": "Legal"
+    "updatedAt": "2026-11-22T22:01:06.562Z",
+    "updatedBy": "derek"
   },
   {
     "id": "pg-55",
     "path": "/guides-tile-slip-ratings",
-    "type": "page",
+    "type": "post",
     "title": "Tile Slip Ratings Explained | P and R Ratings by Room",
     "seoTitle": "Tile Slip Ratings Explained | P and R Ratings by Room",
     "seoDescription": "Tile slip ratings explained: what P3, P4, R10 and R11 mean, which rating each room and outdoor area needs, and how finish affects grip. A Bonnyrigg Tiles guide.",
@@ -275,9 +269,8 @@
     "status": "published",
     "createdAt": "2026-11-20T11:35:56.668Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-20T13:15:48.337Z",
-    "updatedBy": "derek",
-    "category": "Legal"
+    "updatedAt": "2026-11-22T22:01:06.562Z",
+    "updatedBy": "derek"
   },
   {
     "id": "pg-56",
