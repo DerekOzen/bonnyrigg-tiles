@@ -56404,7 +56404,7 @@
   },
   {
     "id": "pg-3369",
-    "path": "/clearance",
+    "path": "/collections/clearance",
     "type": "page",
     "title": "Clearance",
     "seoTitle": "Clearance Tiles Sydney | Car Park Sale From $5 per m²",
@@ -56413,9 +56413,10 @@
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
     "status": "published",
-    "updatedAt": "2026-11-22T22:00:14.685Z",
+    "updatedAt": "2026-11-22T22:22:42.697Z",
     "updatedBy": "derek",
     "createdAt": "2026-11-22T22:00:01.449Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "category": "Services"
   }
 ]
