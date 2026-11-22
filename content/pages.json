@@ -55799,7 +55799,7 @@
   },
   {
     "id": "pg-3358",
-    "path": "/collections-adhesives",
+    "path": "/collections/adhesives",
     "type": "product-category",
     "title": "Tile Adhesive Sydney | Davco, Sika and Laticrete",
     "seoTitle": "Tile Adhesive Sydney | Davco, Sika and Laticrete",
@@ -55811,12 +55811,12 @@
     "category": "Product Categories",
     "createdAt": "2026-11-22T20:48:11.150Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-22T20:48:42.608Z",
+    "updatedAt": "2026-11-22T20:51:42.313Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-3359",
-    "path": "/collections-angles-trims",
+    "path": "/collections/angles-trims",
     "type": "product-category",
     "title": "Tile Trim Sydney | Aluminium, Brass and Stainless Angles",
     "seoTitle": "Tile Trim Sydney | Aluminium, Brass and Stainless Angles",
@@ -55828,12 +55828,12 @@
     "category": "Product Categories",
     "createdAt": "2026-11-22T20:48:11.150Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-22T20:48:42.608Z",
+    "updatedAt": "2026-11-22T20:51:42.313Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-3360",
-    "path": "/collections-basin-mixer",
+    "path": "/collections/basin-mixer",
     "type": "product-category",
     "title": "Basin Mixers Sydney | Standard and High Rise Basin Taps",
     "seoTitle": "Basin Mixers Sydney | Standard and High Rise Basin Taps",
@@ -55845,12 +55845,12 @@
     "category": "Product Categories",
     "createdAt": "2026-11-22T20:48:11.150Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-22T20:48:42.608Z",
+    "updatedAt": "2026-11-22T20:51:42.313Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-3361",
-    "path": "/collections-basins",
+    "path": "/collections/basins",
     "type": "product-category",
     "title": "Bathroom Basins Sydney | Above Counter, Inset and Wall Hung",
     "seoTitle": "Bathroom Basins Sydney | Above Counter, Inset and Wall Hung",
@@ -55862,12 +55862,12 @@
     "category": "Product Categories",
     "createdAt": "2026-11-22T20:48:11.150Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-22T20:48:42.608Z",
+    "updatedAt": "2026-11-22T20:51:42.313Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-3362",
-    "path": "/collections-bathroom-accessories",
+    "path": "/collections/bathroom-accessories",
     "type": "product-category",
     "title": "Bathroom Accessories Sydney | Robe Hooks | Bonnyrigg Tiles",
     "seoTitle": "Bathroom Accessories Sydney | Robe Hooks | Bonnyrigg Tiles",
@@ -55879,12 +55879,12 @@
     "category": "Product Categories",
     "createdAt": "2026-11-22T20:48:11.150Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-22T20:48:42.608Z",
+    "updatedAt": "2026-11-22T20:51:42.313Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-3363",
-    "path": "/collections-bathroom-tiles",
+    "path": "/collections/bathroom-tiles",
     "type": "product-category",
     "title": "Bathroom Tiles Sydney | Floor, Wall and Shower Tiles",
     "seoTitle": "Bathroom Tiles Sydney | Floor, Wall and Shower Tiles",
@@ -55896,12 +55896,12 @@
     "category": "Product Categories",
     "createdAt": "2026-11-22T20:48:11.150Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-22T20:48:42.608Z",
+    "updatedAt": "2026-11-22T20:51:42.313Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-3364",
-    "path": "/collections-bathroom-ware",
+    "path": "/collections/bathroom-ware",
     "type": "product-category",
     "title": "Bathroom Supplies Sydney | Vanities, Baths, Toilets and More",
     "seoTitle": "Bathroom Supplies Sydney | Vanities, Baths, Toilets and More",
@@ -55913,12 +55913,12 @@
     "category": "Product Categories",
     "createdAt": "2026-11-22T20:48:11.150Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-22T20:48:42.608Z",
+    "updatedAt": "2026-11-22T20:51:42.313Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-3365",
-    "path": "/collections-bath-spouts",
+    "path": "/collections/bath-spouts",
     "type": "product-category",
     "title": "Bath Spouts Sydney | Swivel and Wall Bath Outlets",
     "seoTitle": "Bath Spouts Sydney | Swivel and Wall Bath Outlets",
@@ -55930,12 +55930,12 @@
     "category": "Product Categories",
     "createdAt": "2026-11-22T20:48:11.150Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-22T20:48:42.608Z",
+    "updatedAt": "2026-11-22T20:51:42.313Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-3366",
-    "path": "/collections-bath-tub",
+    "path": "/collections/bath-tub",
     "type": "product-category",
     "title": "Freestanding Baths Sydney | Back to Wall and Corner Baths",
     "seoTitle": "Freestanding Baths Sydney | Back to Wall and Corner Baths",
@@ -55947,12 +55947,12 @@
     "category": "Product Categories",
     "createdAt": "2026-11-22T20:48:11.150Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-22T20:48:42.608Z",
+    "updatedAt": "2026-11-22T20:51:42.313Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-3367",
-    "path": "/collections-bt-specials",
+    "path": "/collections/bt-specials",
     "type": "product-category",
     "title": "BT Specials | Bonnyrigg Tiles Own Tile Ranges",
     "seoTitle": "BT Specials | Bonnyrigg Tiles Own Tile Ranges",
@@ -55964,12 +55964,12 @@
     "category": "Product Categories",
     "createdAt": "2026-11-22T20:48:11.150Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-22T20:48:42.608Z",
+    "updatedAt": "2026-11-22T20:51:42.313Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-3368",
-    "path": "/collections-cement-mixers",
+    "path": "/collections/cement-mixers",
     "type": "product-category",
     "title": "Cement Mixers Sydney | Baron Electric Cement Mixers",
     "seoTitle": "Cement Mixers Sydney | Baron Electric Cement Mixers",
@@ -55981,12 +55981,12 @@
     "category": "Product Categories",
     "createdAt": "2026-11-22T20:48:11.150Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-22T20:48:42.608Z",
+    "updatedAt": "2026-11-22T20:51:42.313Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-3369",
-    "path": "/collections-clearance",
+    "path": "/collections/clearance",
     "type": "product-category",
     "title": "Clearance Tiles Sydney | Floor Tiles From $5 per m²",
     "seoTitle": "Clearance Tiles Sydney | Floor Tiles From $5 per m²",
@@ -55998,12 +55998,12 @@
     "category": "Product Categories",
     "createdAt": "2026-11-22T20:48:11.150Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-22T20:48:42.608Z",
+    "updatedAt": "2026-11-22T20:51:42.313Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-3370",
-    "path": "/collections-combo-mixer",
+    "path": "/collections/combo-mixer",
     "type": "product-category",
     "title": "Combination Mixers Sydney | Wall Mixers with Diverter",
     "seoTitle": "Combination Mixers Sydney | Wall Mixers with Diverter",
@@ -56015,12 +56015,12 @@
     "category": "Product Categories",
     "createdAt": "2026-11-22T20:48:11.150Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-22T20:48:42.608Z",
+    "updatedAt": "2026-11-22T20:51:42.313Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-3371",
-    "path": "/collections-floor-tiles",
+    "path": "/collections/floor-tiles",
     "type": "product-category",
     "title": "Floor Tiles Sydney | Porcelain and Ceramic Floor Tiles",
     "seoTitle": "Floor Tiles Sydney | Porcelain and Ceramic Floor Tiles",
@@ -56032,12 +56032,12 @@
     "category": "Product Categories",
     "createdAt": "2026-11-22T20:48:11.150Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-22T20:48:42.608Z",
+    "updatedAt": "2026-11-22T20:51:42.313Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-3372",
-    "path": "/collections-floor-waste-grates",
+    "path": "/collections/floor-waste-grates",
     "type": "product-category",
     "title": "Shower Grates Sydney | Tile Insert and Linear Floor Wastes",
     "seoTitle": "Shower Grates Sydney | Tile Insert and Linear Floor Wastes",
@@ -56049,12 +56049,12 @@
     "category": "Product Categories",
     "createdAt": "2026-11-22T20:48:11.150Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-22T20:48:42.608Z",
+    "updatedAt": "2026-11-22T20:51:42.313Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-3373",
-    "path": "/collections-grout-primer-additives",
+    "path": "/collections/grout-primer-additives",
     "type": "product-category",
     "title": "Tile Grout Sydney | Grout Colours, Primers and Additives",
     "seoTitle": "Tile Grout Sydney | Grout Colours, Primers and Additives",
@@ -56066,12 +56066,12 @@
     "category": "Product Categories",
     "createdAt": "2026-11-22T20:48:11.150Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-22T20:48:42.608Z",
+    "updatedAt": "2026-11-22T20:51:42.313Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-3374",
-    "path": "/collections-kitchen",
+    "path": "/collections/kitchen",
     "type": "product-category",
     "title": "Kitchen Sinks and Mixers Sydney | Bonnyrigg Tiles",
     "seoTitle": "Kitchen Sinks and Mixers Sydney | Bonnyrigg Tiles",
@@ -56083,12 +56083,12 @@
     "category": "Product Categories",
     "createdAt": "2026-11-22T20:48:11.150Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-22T20:48:42.608Z",
+    "updatedAt": "2026-11-22T20:51:42.313Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-3375",
-    "path": "/collections-kitchen-mixer",
+    "path": "/collections/kitchen-mixer",
     "type": "product-category",
     "title": "Kitchen Sink Mixers Sydney | Pull Out Kitchen Taps",
     "seoTitle": "Kitchen Sink Mixers Sydney | Pull Out Kitchen Taps",
@@ -56100,12 +56100,12 @@
     "category": "Product Categories",
     "createdAt": "2026-11-22T20:48:11.150Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-22T20:48:42.608Z",
+    "updatedAt": "2026-11-22T20:51:42.313Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-3376",
-    "path": "/collections-kitchen-sinks",
+    "path": "/collections/kitchen-sinks",
     "type": "product-category",
     "title": "Kitchen Sinks Sydney | Stainless Steel and Undermount Sinks",
     "seoTitle": "Kitchen Sinks Sydney | Stainless Steel and Undermount Sinks",
@@ -56117,12 +56117,12 @@
     "category": "Product Categories",
     "createdAt": "2026-11-22T20:48:11.150Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-22T20:48:42.608Z",
+    "updatedAt": "2026-11-22T20:51:42.313Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-3377",
-    "path": "/collections-marble-look-tiles",
+    "path": "/collections/marble-look-tiles",
     "type": "product-category",
     "title": "Marble Look Tiles Sydney | Calacatta and Statuario Looks",
     "seoTitle": "Marble Look Tiles Sydney | Calacatta and Statuario Looks",
@@ -56134,12 +56134,12 @@
     "category": "Product Categories",
     "createdAt": "2026-11-22T20:48:11.150Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-22T20:48:42.608Z",
+    "updatedAt": "2026-11-22T20:51:42.313Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-3378",
-    "path": "/collections-mirror",
+    "path": "/collections/mirror",
     "type": "product-category",
     "title": "Bathroom Mirrors Sydney | LED Mirrors and Shaving Cabinets",
     "seoTitle": "Bathroom Mirrors Sydney | LED Mirrors and Shaving Cabinets",
@@ -56151,12 +56151,12 @@
     "category": "Product Categories",
     "createdAt": "2026-11-22T20:48:11.150Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-22T20:48:42.608Z",
+    "updatedAt": "2026-11-22T20:51:42.313Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-3379",
-    "path": "/collections-outdoor-tiles",
+    "path": "/collections/outdoor-tiles",
     "type": "product-category",
     "title": "Outdoor Tiles Sydney | Patio and Alfresco Tiles",
     "seoTitle": "Outdoor Tiles Sydney | Patio and Alfresco Tiles",
@@ -56168,12 +56168,12 @@
     "category": "Product Categories",
     "createdAt": "2026-11-22T20:48:11.150Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-22T20:48:42.608Z",
+    "updatedAt": "2026-11-22T20:51:42.313Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-3380",
-    "path": "/collections-sand-cement",
+    "path": "/collections/sand-cement",
     "type": "product-category",
     "title": "Sand and Cement Sydney | Sydney Sand and Cement Mixes",
     "seoTitle": "Sand and Cement Sydney | Sydney Sand and Cement Mixes",
@@ -56185,12 +56185,12 @@
     "category": "Product Categories",
     "createdAt": "2026-11-22T20:48:11.150Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-22T20:48:42.608Z",
+    "updatedAt": "2026-11-22T20:51:42.313Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-3381",
-    "path": "/collections-sealers-cleaners",
+    "path": "/collections/sealers-cleaners",
     "type": "product-category",
     "title": "Tile Sealer Sydney | Grout Sealers and Tile Cleaners",
     "seoTitle": "Tile Sealer Sydney | Grout Sealers and Tile Cleaners",
@@ -56202,12 +56202,12 @@
     "category": "Product Categories",
     "createdAt": "2026-11-22T20:48:11.150Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-22T20:48:42.608Z",
+    "updatedAt": "2026-11-22T20:51:42.313Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-3382",
-    "path": "/collections-showers",
+    "path": "/collections/showers",
     "type": "product-category",
     "title": "Shower Heads Sydney | Rails, Twin Showers and Rain Heads",
     "seoTitle": "Shower Heads Sydney | Rails, Twin Showers and Rain Heads",
@@ -56219,12 +56219,12 @@
     "category": "Product Categories",
     "createdAt": "2026-11-22T20:48:11.150Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-22T20:48:42.608Z",
+    "updatedAt": "2026-11-22T20:51:42.313Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-3383",
-    "path": "/collections-silicone",
+    "path": "/collections/silicone",
     "type": "product-category",
     "title": "Silicone Sealant Sydney | Colour Matched Bathroom Silicone",
     "seoTitle": "Silicone Sealant Sydney | Colour Matched Bathroom Silicone",
@@ -56236,12 +56236,12 @@
     "category": "Product Categories",
     "createdAt": "2026-11-22T20:48:19.445Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-22T20:48:42.608Z",
+    "updatedAt": "2026-11-22T20:51:42.313Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-3384",
-    "path": "/collections-stone-look-tiles",
+    "path": "/collections/stone-look-tiles",
     "type": "product-category",
     "title": "Stone Look Tiles Sydney | Travertine and Sandstone Looks",
     "seoTitle": "Stone Look Tiles Sydney | Travertine and Sandstone Looks",
@@ -56253,12 +56253,12 @@
     "category": "Product Categories",
     "createdAt": "2026-11-22T20:48:19.445Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-22T20:48:42.608Z",
+    "updatedAt": "2026-11-22T20:51:42.313Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-3385",
-    "path": "/collections-tap-sets",
+    "path": "/collections/tap-sets",
     "type": "product-category",
     "title": "Tap Sets Sydney | Wall Top Assemblies and Basin Sets",
     "seoTitle": "Tap Sets Sydney | Wall Top Assemblies and Basin Sets",
@@ -56270,12 +56270,12 @@
     "category": "Product Categories",
     "createdAt": "2026-11-22T20:48:19.445Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-22T20:48:42.608Z",
+    "updatedAt": "2026-11-22T20:51:42.313Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-3386",
-    "path": "/collections-tapware",
+    "path": "/collections/tapware",
     "type": "product-category",
     "title": "Tapware Sydney | Mixers, Spouts and Showers",
     "seoTitle": "Tapware Sydney | Mixers, Spouts and Showers",
@@ -56287,12 +56287,12 @@
     "category": "Product Categories",
     "createdAt": "2026-11-22T20:48:19.445Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-22T20:48:42.608Z",
+    "updatedAt": "2026-11-22T20:51:42.313Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-3387",
-    "path": "/collections-tiles",
+    "path": "/collections/tiles",
     "type": "product-category",
     "title": "Tiles for Sale Sydney | Floor, Wall and Outdoor Tiles",
     "seoTitle": "Tiles for Sale Sydney | Floor, Wall and Outdoor Tiles",
@@ -56304,12 +56304,12 @@
     "category": "Product Categories",
     "createdAt": "2026-11-22T20:48:19.445Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-22T20:48:42.608Z",
+    "updatedAt": "2026-11-22T20:51:42.313Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-3388",
-    "path": "/collections-tiling-tools",
+    "path": "/collections/tiling-tools",
     "type": "product-category",
     "title": "Tiling Tools Sydney | Trowels, Spacers, Nippers and Blades",
     "seoTitle": "Tiling Tools Sydney | Trowels, Spacers, Nippers and Blades",
@@ -56321,12 +56321,12 @@
     "category": "Product Categories",
     "createdAt": "2026-11-22T20:48:19.445Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-22T20:48:42.608Z",
+    "updatedAt": "2026-11-22T20:51:42.313Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-3389",
-    "path": "/collections-toilet",
+    "path": "/collections/toilet",
     "type": "product-category",
     "title": "Toilet Suites Sydney | Back to Wall and Rimless Toilets",
     "seoTitle": "Toilet Suites Sydney | Back to Wall and Rimless Toilets",
@@ -56338,12 +56338,12 @@
     "category": "Product Categories",
     "createdAt": "2026-11-22T20:48:19.445Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-22T20:48:42.608Z",
+    "updatedAt": "2026-11-22T20:51:42.313Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-3390",
-    "path": "/collections-trade-supplies",
+    "path": "/collections/trade-supplies",
     "type": "product-category",
     "title": "Tiling Supplies Sydney | Adhesive, Grout, Sand and Cement",
     "seoTitle": "Tiling Supplies Sydney | Adhesive, Grout, Sand and Cement",
@@ -56355,12 +56355,12 @@
     "category": "Product Categories",
     "createdAt": "2026-11-22T20:48:19.445Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-22T20:48:42.608Z",
+    "updatedAt": "2026-11-22T20:51:42.313Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-3391",
-    "path": "/collections-vanity",
+    "path": "/collections/vanity",
     "type": "product-category",
     "title": "Bathroom Vanities Sydney | Wall Hung and Freestanding",
     "seoTitle": "Bathroom Vanities Sydney | Wall Hung and Freestanding",
@@ -56372,12 +56372,12 @@
     "category": "Product Categories",
     "createdAt": "2026-11-22T20:48:19.445Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-22T20:48:42.608Z",
+    "updatedAt": "2026-11-22T20:51:42.313Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-3392",
-    "path": "/collections-wall-mixer",
+    "path": "/collections/wall-mixer",
     "type": "product-category",
     "title": "Wall Mixers Sydney | Shower and Bath Wall Mixers",
     "seoTitle": "Wall Mixers Sydney | Shower and Bath Wall Mixers",
@@ -56389,12 +56389,12 @@
     "category": "Product Categories",
     "createdAt": "2026-11-22T20:48:19.445Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-22T20:48:42.608Z",
+    "updatedAt": "2026-11-22T20:51:42.313Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-3393",
-    "path": "/collections-wall-tiles",
+    "path": "/collections/wall-tiles",
     "type": "product-category",
     "title": "Wall Tiles Sydney | Bathroom, Kitchen and Feature Wall Tiles",
     "seoTitle": "Wall Tiles Sydney | Bathroom, Kitchen and Feature Wall Tiles",
@@ -56406,12 +56406,12 @@
     "category": "Product Categories",
     "createdAt": "2026-11-22T20:48:19.445Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-22T20:48:42.608Z",
+    "updatedAt": "2026-11-22T20:51:42.313Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-3394",
-    "path": "/collections-waterproofing",
+    "path": "/collections/waterproofing",
     "type": "product-category",
     "title": "Waterproofing Supplies Sydney | Membranes and Primers",
     "seoTitle": "Waterproofing Supplies Sydney | Membranes and Primers",
@@ -56423,7 +56423,7 @@
     "category": "Product Categories",
     "createdAt": "2026-11-22T20:48:19.445Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-22T20:48:42.608Z",
+    "updatedAt": "2026-11-22T20:51:42.313Z",
     "updatedBy": "derek"
   }
 ]
