@@ -55985,24 +55985,6 @@
     "updatedBy": "derek"
   },
   {
-    "id": "pg-3369",
-    "path": "/collections/clearance",
-    "type": "product-category",
-    "title": "Clearance Tiles Sydney | Floor Tiles From $5 per m²",
-    "seoTitle": "Clearance Tiles Sydney | Floor Tiles From $5 per m²",
-    "seoDescription": "Clearance floor tiles from $5 per m² at the Bonnyrigg Tiles showroom in Sydney. Final lines that will not be restocked. Visit early for the best choice.",
-    "layout": "mockup",
-    "headerPartId": "header-3",
-    "footerPartId": "footer-3",
-    "status": "deleted",
-    "category": "Product Categories",
-    "createdAt": "2026-11-22T20:48:11.150Z",
-    "createdBy": "derek",
-    "updatedAt": "2026-11-22T21:56:11.831Z",
-    "updatedBy": "derek",
-    "isHome": false
-  },
-  {
     "id": "pg-3370",
     "path": "/collections/combo-mixer",
     "type": "product-category",
@@ -56426,22 +56408,5 @@
     "createdBy": "derek",
     "updatedAt": "2026-11-22T20:51:42.313Z",
     "updatedBy": "derek"
-  },
-  {
-    "id": "pg-3395",
-    "path": "/clearance",
-    "type": "service",
-    "title": "Clearance",
-    "seoTitle": "Clearance Tiles Sydney | Car Park Sale From $5 per m²",
-    "seoDescription": "Car Park Sale on Saturday 12 December, 7am to 3pm, at Bonnyrigg Tiles. Clearance tiles from $5 per m², wholesale to the public, with a BBQ on site.",
-    "layout": "mockup",
-    "headerPartId": "header-3",
-    "footerPartId": "footer-3",
-    "status": "deleted",
-    "updatedAt": "2026-11-22T21:57:39.936Z",
-    "updatedBy": "derek",
-    "createdAt": "2026-11-22T21:57:08.433Z",
-    "createdBy": "derek",
-    "isHome": false
   }
 ]
