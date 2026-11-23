@@ -56430,11 +56430,11 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "category": "Product Categories",
     "createdAt": "2026-11-23T05:42:26.604Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-23T05:42:26.604Z",
+    "updatedAt": "2026-11-23T05:45:25.589Z",
     "updatedBy": "derek"
   }
 ]
