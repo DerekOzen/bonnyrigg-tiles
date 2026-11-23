@@ -57646,5 +57646,22 @@
     "createdBy": "derek",
     "updatedAt": "2026-11-23T08:15:36.202Z",
     "updatedBy": "derek"
+  },
+  {
+    "id": "pg-3465",
+    "path": "/collections/shower-screen",
+    "type": "product-category",
+    "title": "Shower Screens Sydney | Frameless Sliding | Bonnyrigg Tiles",
+    "seoTitle": "Shower Screens Sydney | Frameless Sliding | Bonnyrigg Tiles",
+    "seoDescription": "Shower screens in Sydney: frameless sliding screens in 8 mm clear tempered glass and framed shower doors from Poseidon and KDK Home. Enquire for price.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "category": "Product Categories",
+    "createdAt": "2026-11-23T10:35:35.616Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-23T10:35:35.616Z",
+    "updatedBy": "derek"
   }
 ]
