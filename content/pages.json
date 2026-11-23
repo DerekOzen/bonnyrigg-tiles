@@ -56966,7 +56966,7 @@
   },
   {
     "id": "pg-3359",
-    "path": "/search2",
+    "path": "/search",
     "type": "page",
     "title": "Search Results | Bonnyrigg Tiles",
     "seoTitle": "Search Results | Bonnyrigg Tiles",
@@ -56975,7 +56975,7 @@
     "headerPartId": "header-4",
     "footerPartId": "footer-4",
     "status": "published",
-    "updatedAt": "2026-11-23T13:05:13.626Z",
+    "updatedAt": "2026-11-23T13:06:05.696Z",
     "updatedBy": "derek",
     "createdAt": "2026-11-23T13:04:10.970Z",
     "createdBy": "derek"
