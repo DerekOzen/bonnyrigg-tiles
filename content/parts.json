@@ -8,7 +8,8 @@
     "fonts": [
       "https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..600;1,6..96,400..500&family=Jost:wght@300..600&display=swap"
     ],
-    "updatedAt": "2026-11-13T09:58:30.100Z"
+    "updatedAt": "2026-11-23T13:20:23.766Z",
+    "deleted": true
   },
   {
     "id": "footer-2",
@@ -19,7 +20,8 @@
     "fonts": [
       "https://fonts.googleapis.com/css2?family=Jost:wght@300..700&display=swap"
     ],
-    "updatedAt": "2026-11-16T00:00:29.139Z"
+    "updatedAt": "2026-11-23T13:20:23.766Z",
+    "deleted": true
   },
   {
     "id": "header-3",
