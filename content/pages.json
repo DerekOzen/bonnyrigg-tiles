@@ -57085,5 +57085,21 @@
     "createdBy": "derek",
     "updatedAt": "2026-11-23T06:15:24.839Z",
     "updatedBy": "derek"
+  },
+  {
+    "id": "pg-3432",
+    "path": "/collections/clearance",
+    "type": "page",
+    "title": "Clearance Tiles Sydney | Car Park Sale From $5 per m²",
+    "seoTitle": "Clearance Tiles Sydney | Car Park Sale From $5 per m²",
+    "seoDescription": "Car Park Sale on Saturday 12 December, 7am to 3pm, at Bonnyrigg Tiles. Clearance tiles from $5 per m², wholesale to the public, with a BBQ on site.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-11-23T06:16:02.639Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-23T06:16:02.639Z",
+    "updatedBy": "derek"
   }
 ]
