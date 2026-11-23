@@ -57657,11 +57657,11 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "category": "Product Categories",
     "createdAt": "2026-11-23T10:35:35.616Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-23T10:35:35.616Z",
+    "updatedAt": "2026-11-23T10:35:56.596Z",
     "updatedBy": "derek"
   }
 ]
