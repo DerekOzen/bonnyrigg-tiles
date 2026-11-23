@@ -33,7 +33,7 @@
       "https://fonts.googleapis.com/css2?family=Jost:wght@300..700&display=swap",
       "https://fonts.googleapis.com/css2?family=Jost:wght@300..700&display=swap"
     ],
-    "updatedAt": "2026-11-23T12:57:20.804Z",
+    "updatedAt": "2026-11-23T13:28:02.408Z",
     "settings": {
       "sticky": false,
       "autoHide": false,
@@ -59,7 +59,8 @@
       ],
       "accent": "#0f766e",
       "maxWidth": 1200
-    }
+    },
+    "deleted": true
   },
   {
     "id": "footer-3",
