@@ -57096,10 +57096,11 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-23T06:16:02.639Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-23T06:16:02.639Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-23T06:16:24.640Z",
+    "updatedBy": "derek",
+    "category": "Product Categories"
   }
 ]
