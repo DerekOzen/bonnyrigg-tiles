@@ -56004,12 +56004,13 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "category": "Product Categories",
     "createdAt": "2026-11-22T20:48:11.150Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-22T20:51:42.313Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-23T05:41:47.172Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-3372",
