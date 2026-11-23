@@ -56419,5 +56419,22 @@
     "createdAt": "2026-11-22T22:00:01.449Z",
     "createdBy": "derek",
     "category": "Product Categories"
+  },
+  {
+    "id": "pg-3395",
+    "path": "/collections/floor-tiles",
+    "type": "product-category",
+    "title": "Floor Tiles Sydney | Porcelain and Ceramic Floor Tiles",
+    "seoTitle": "Floor Tiles Sydney | Porcelain and Ceramic Floor Tiles",
+    "seoDescription": "Floor tiles in Sydney for living areas, kitchens, bathrooms and laundries. Porcelain and ceramic in matt, lappato and polished finishes. See them in Bonnyrigg.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "category": "Product Categories",
+    "createdAt": "2026-11-23T05:42:26.604Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-23T05:42:26.604Z",
+    "updatedBy": "derek"
   }
 ]
