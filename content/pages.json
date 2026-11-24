@@ -57201,7 +57201,7 @@
   },
   {
     "id": "pg-3366",
-    "path": "/collections-kitchen-sinks",
+    "path": "/collections/kitchen-sinks",
     "type": "product-category",
     "title": "Kitchen Sinks Sydney | Stainless Steel and Undermount Sinks",
     "seoTitle": "Kitchen Sinks Sydney | Stainless Steel and Undermount Sinks",
@@ -57209,11 +57209,11 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "category": "Product Categories",
     "createdAt": "2026-11-24T04:36:51.383Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:36:51.383Z",
+    "updatedAt": "2026-11-24T05:07:11.846Z",
     "updatedBy": "joshua"
   },
   {
