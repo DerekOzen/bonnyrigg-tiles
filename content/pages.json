@@ -57405,7 +57405,7 @@
   },
   {
     "id": "pg-3378",
-    "path": "/product-bt-taj-mahal",
+    "path": "/products/bt-taj-mahal",
     "type": "product",
     "title": "BT Taj Mahal Stone Look Tile | Bonnyrigg Tiles",
     "seoTitle": "BT Taj Mahal Stone Look Tile | Bonnyrigg Tiles",
@@ -57413,11 +57413,11 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "category": "Products",
     "createdAt": "2026-11-24T04:36:51.383Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:36:51.383Z",
+    "updatedAt": "2026-11-24T05:17:14.495Z",
     "updatedBy": "joshua"
   },
   {
