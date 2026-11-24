@@ -59575,11 +59575,11 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "category": "Product Categories",
     "createdAt": "2026-11-24T22:24:05.427Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-24T22:24:05.427Z",
+    "updatedAt": "2026-11-24T22:24:33.397Z",
     "updatedBy": "derek"
   },
   {
@@ -59592,11 +59592,11 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "category": "Product Categories",
     "createdAt": "2026-11-24T22:24:05.427Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-24T22:24:05.427Z",
+    "updatedAt": "2026-11-24T22:24:33.397Z",
     "updatedBy": "derek"
   },
   {
@@ -59609,11 +59609,11 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "category": "Product Categories",
     "createdAt": "2026-11-24T22:24:05.427Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-24T22:24:05.427Z",
+    "updatedAt": "2026-11-24T22:24:33.397Z",
     "updatedBy": "derek"
   }
 ]
