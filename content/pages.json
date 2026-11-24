@@ -57252,7 +57252,7 @@
   },
   {
     "id": "pg-3369",
-    "path": "/collections-tiles",
+    "path": "/collections/tiles",
     "type": "product-category",
     "title": "Tiles for Sale Sydney | Floor, Wall and Outdoor Tiles",
     "seoTitle": "Tiles for Sale Sydney | Floor, Wall and Outdoor Tiles",
@@ -57260,11 +57260,11 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "category": "Product Categories",
     "createdAt": "2026-11-24T04:36:51.383Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:36:51.383Z",
+    "updatedAt": "2026-11-24T05:09:39.093Z",
     "updatedBy": "joshua"
   },
   {
