@@ -57133,7 +57133,7 @@
   },
   {
     "id": "pg-3362",
-    "path": "/collections-bt-specials",
+    "path": "/collections/bt-specials",
     "type": "product-category",
     "title": "BT Specials | Bonnyrigg Tiles Own Tile Ranges",
     "seoTitle": "BT Specials | Bonnyrigg Tiles Own Tile Ranges",
@@ -57141,11 +57141,11 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "category": "Product Categories",
     "createdAt": "2026-11-24T04:36:51.383Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:36:51.383Z",
+    "updatedAt": "2026-11-24T05:05:09.653Z",
     "updatedBy": "joshua"
   },
   {
