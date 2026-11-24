@@ -59522,10 +59522,10 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-24T09:59:57.892Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-24T09:59:57.892Z",
+    "updatedAt": "2026-11-24T10:00:25.156Z",
     "updatedBy": "derek"
   }
 ]
