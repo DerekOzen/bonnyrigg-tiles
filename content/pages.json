@@ -94,8 +94,9 @@
     "status": "published",
     "createdAt": "2026-11-19T01:08:39.441Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-23T13:32:32.810Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-24T07:03:20.269Z",
+    "updatedBy": "joshua",
+    "noindex": true
   },
   {
     "id": "pg-10",
