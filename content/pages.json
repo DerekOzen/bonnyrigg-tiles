@@ -59527,5 +59527,39 @@
     "createdBy": "derek",
     "updatedAt": "2026-11-24T10:00:25.156Z",
     "updatedBy": "derek"
+  },
+  {
+    "id": "pg-3573",
+    "path": "/products/glamour-robe-hook",
+    "type": "product",
+    "title": "Glamour Robe Hook | Bonnyrigg Tiles",
+    "seoTitle": "Glamour Robe Hook | Bonnyrigg Tiles",
+    "seoDescription": "Glamour Robe Hook at Bonnyrigg Tiles. From $26 to $35. Available in Chrome and Black. Enquire online or visit our Bonnyrigg showroom.",
+    "layout": "mockup",
+    "headerPartId": "header-4",
+    "footerPartId": "footer-5",
+    "status": "draft",
+    "category": "Products",
+    "createdAt": "2026-11-24T12:44:35.035Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-24T12:44:35.035Z",
+    "updatedBy": "derek"
+  },
+  {
+    "id": "pg-3574",
+    "path": "/products/luxury-robe-hook",
+    "type": "product",
+    "title": "Luxury Robe Hook | Bonnyrigg Tiles",
+    "seoTitle": "Luxury Robe Hook | Bonnyrigg Tiles",
+    "seoDescription": "Luxury Robe Hook, in our bathroom accessories range at Bonnyrigg Tiles. Priced at $38. Enquire online or visit our Bonnyrigg showroom.",
+    "layout": "mockup",
+    "headerPartId": "header-4",
+    "footerPartId": "footer-5",
+    "status": "draft",
+    "category": "Products",
+    "createdAt": "2026-11-24T12:44:35.035Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-24T12:44:35.035Z",
+    "updatedBy": "derek"
   }
 ]
