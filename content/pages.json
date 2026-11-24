@@ -57320,7 +57320,7 @@
   },
   {
     "id": "pg-3373",
-    "path": "/product-254-platinum-off-white",
+    "path": "/products/254-platinum-off-white",
     "type": "product",
     "title": "254 Platinum Off White | Bonnyrigg Tiles",
     "seoTitle": "254 Platinum Off White | Bonnyrigg Tiles",
@@ -57328,11 +57328,11 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "category": "Products",
     "createdAt": "2026-11-24T04:36:51.383Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:36:51.383Z",
+    "updatedAt": "2026-11-24T05:11:29.180Z",
     "updatedBy": "joshua"
   },
   {
