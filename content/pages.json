@@ -57388,7 +57388,7 @@
   },
   {
     "id": "pg-3377",
-    "path": "/product-apex-silver",
+    "path": "/products/apex-silver",
     "type": "product",
     "title": "Apex Silver Marble Look Tile | Bonnyrigg Tiles",
     "seoTitle": "Apex Silver Marble Look Tile | Bonnyrigg Tiles",
@@ -57396,11 +57396,11 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "category": "Products",
     "createdAt": "2026-11-24T04:36:51.383Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:36:51.383Z",
+    "updatedAt": "2026-11-24T05:14:33.923Z",
     "updatedBy": "joshua"
   },
   {
