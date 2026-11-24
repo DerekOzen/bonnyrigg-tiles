@@ -57167,7 +57167,7 @@
   },
   {
     "id": "pg-3364",
-    "path": "/collections-kitchen",
+    "path": "/collections/kitchen",
     "type": "product-category",
     "title": "Kitchen Sinks and Mixers Sydney | Bonnyrigg Tiles",
     "seoTitle": "Kitchen Sinks and Mixers Sydney | Bonnyrigg Tiles",
@@ -57175,11 +57175,11 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "category": "Product Categories",
     "createdAt": "2026-11-24T04:36:51.383Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:36:51.383Z",
+    "updatedAt": "2026-11-24T05:06:05.762Z",
     "updatedBy": "joshua"
   },
   {
