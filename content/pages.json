@@ -59555,11 +59555,11 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "category": "Products",
     "createdAt": "2026-11-24T12:44:35.035Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-24T12:44:35.035Z",
+    "updatedAt": "2026-11-24T12:45:22.769Z",
     "updatedBy": "derek"
   }
 ]
