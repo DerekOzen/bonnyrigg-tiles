@@ -57269,7 +57269,7 @@
   },
   {
     "id": "pg-3370",
-    "path": "/collections-trade-supplies",
+    "path": "/collections/trade-supplies",
     "type": "product-category",
     "title": "Tiling Supplies Sydney | Adhesive, Grout, Sand and Cement",
     "seoTitle": "Tiling Supplies Sydney | Adhesive, Grout, Sand and Cement",
@@ -57277,11 +57277,11 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "category": "Product Categories",
     "createdAt": "2026-11-24T04:36:51.383Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:36:51.383Z",
+    "updatedAt": "2026-11-24T05:10:11.392Z",
     "updatedBy": "joshua"
   },
   {
