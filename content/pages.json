@@ -57090,11 +57090,12 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "published",
-    "updatedAt": "2026-11-23T13:32:32.810Z",
-    "updatedBy": "derek",
+    "status": "deleted",
+    "updatedAt": "2026-11-24T04:38:48.306Z",
+    "updatedBy": "joshua",
     "createdAt": "2026-11-23T13:28:54.179Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-3360",
