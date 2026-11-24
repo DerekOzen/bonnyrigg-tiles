@@ -59497,7 +59497,7 @@
   },
   {
     "id": "pg-3571",
-    "path": "/shop2",
+    "path": "/shop",
     "type": "page",
     "title": "Shop Tiles, Bathroomware & Trade Supplies | Bonnyrigg Tiles",
     "seoTitle": "Shop Tiles, Bathroomware & Trade Supplies | Bonnyrigg Tiles",
@@ -59505,10 +59505,10 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-24T09:53:55.471Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-24T09:53:55.471Z",
+    "updatedAt": "2026-11-24T09:54:34.538Z",
     "updatedBy": "derek"
   }
 ]
