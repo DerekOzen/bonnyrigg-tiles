@@ -1,1 +1,548 @@
-[]
+[
+  {
+    "from": "/products/classic-grand-shower",
+    "to": "/collections/showers",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/classic-grand-shower"
+  },
+  {
+    "from": "/products/classic-shower-on-bracket",
+    "to": "/collections/showers",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/classic-shower-on-bracket"
+  },
+  {
+    "from": "/products/exclusive-combination-wall-mixer",
+    "to": "/collections/combo-mixer",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/exclusive-combination-wall-mixer"
+  },
+  {
+    "from": "/products/exclusive-wall-mixer",
+    "to": "/collections/wall-mixer",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/exclusive-wall-mixer"
+  },
+  {
+    "from": "/products/luxury-basin-mixer",
+    "to": "/collections/basin-mixer",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/luxury-basin-mixer"
+  },
+  {
+    "from": "/products/luxury-grand-2-in-1-shower-top-inlet",
+    "to": "/collections/showers",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/luxury-grand-2-in-1-shower-top-inlet"
+  },
+  {
+    "from": "/products/luxury-swivel-bath-spout",
+    "to": "/collections/bath-spouts",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/luxury-swivel-bath-spout"
+  },
+  {
+    "from": "/products/luxury-wall-mixer",
+    "to": "/collections/wall-mixer",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/luxury-wall-mixer"
+  },
+  {
+    "from": "/products/malo-wall-mixer",
+    "to": "/collections/wall-mixer",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/malo-wall-mixer"
+  },
+  {
+    "from": "/products/mosman-swivel-bath-spout",
+    "to": "/collections/bath-spouts",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/mosman-swivel-bath-spout"
+  },
+  {
+    "from": "/products/niagara-bath-spout",
+    "to": "/collections/bath-spouts",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/niagara-bath-spout"
+  },
+  {
+    "from": "/products/ocean-bath-spout",
+    "to": "/collections/bath-spouts",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/ocean-bath-spout"
+  },
+  {
+    "from": "/products/parker-basin-mixer",
+    "to": "/collections/basin-mixer",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/parker-basin-mixer"
+  },
+  {
+    "from": "/products/rio-black-curved-vanity",
+    "to": "/collections/vanity",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/rio-black-curved-vanity"
+  },
+  {
+    "from": "/products/rio-white-curved-vanity",
+    "to": "/collections/vanity",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/rio-white-curved-vanity"
+  },
+  {
+    "from": "/blogs/news",
+    "to": "/guides",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/blogs/news"
+  },
+  {
+    "from": "/collections/building-supplies",
+    "to": "/collections/trade-supplies",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/collections/building-supplies"
+  },
+  {
+    "from": "/collections/frontpage",
+    "to": "/shop",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/collections/frontpage"
+  },
+  {
+    "from": "/collections/shower-arms",
+    "to": "/collections/showers",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/collections/shower-arms"
+  },
+  {
+    "from": "/collections/shower-heads",
+    "to": "/collections/showers",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/collections/shower-heads"
+  },
+  {
+    "from": "/collections/shower-sets",
+    "to": "/collections/showers",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/collections/shower-sets"
+  },
+  {
+    "from": "/collections/showers-multi-function",
+    "to": "/collections/showers",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/collections/showers-multi-function"
+  },
+  {
+    "from": "/collections/tools",
+    "to": "/collections/trade-supplies",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/collections/tools"
+  },
+  {
+    "from": "/collections/wet-saws",
+    "to": "/collections/tiling-tools",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/collections/wet-saws"
+  },
+  {
+    "from": "/collections/all",
+    "to": "/shop",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/collections/all"
+  },
+  {
+    "from": "/collections",
+    "to": "/shop",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/collections"
+  },
+  {
+    "from": "/tile/outdoor-tiles",
+    "to": "/collections/outdoor-tiles",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/tile/outdoor-tiles"
+  },
+  {
+    "from": "/pages/about-us",
+    "to": "/about",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/pages/about-us"
+  },
+  {
+    "from": "/pages/contact",
+    "to": "/showroom",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/pages/contact"
+  },
+  {
+    "from": "/pages/faqs",
+    "to": "/faqs",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/pages/faqs"
+  },
+  {
+    "from": "/pages/gallery",
+    "to": "/gallery",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/pages/gallery"
+  },
+  {
+    "from": "/pages/privacy-policy",
+    "to": "/privacy-policy",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/pages/privacy-policy"
+  },
+  {
+    "from": "/pages/sales-terms-conditions",
+    "to": "/sales-terms-conditions",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/pages/sales-terms-conditions"
+  },
+  {
+    "from": "/pages/vehicle-loading-policy",
+    "to": "/vehicle-loading-policy",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/pages/vehicle-loading-policy"
+  },
+  {
+    "from": "/products/classic-2-in-1-shower",
+    "to": "/collections/showers",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/classic-2-in-1-shower"
+  },
+  {
+    "from": "/products/classic-basin-mixer",
+    "to": "/collections/basin-mixer",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/classic-basin-mixer"
+  },
+  {
+    "from": "/products/classic-bath-spout",
+    "to": "/collections/bath-spouts",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/classic-bath-spout"
+  },
+  {
+    "from": "/products/classic-wall-mixer",
+    "to": "/collections/wall-mixer",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/classic-wall-mixer"
+  },
+  {
+    "from": "/products/corner-fit-bath",
+    "to": "/collections/bath-tub",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/corner-fit-bath"
+  },
+  {
+    "from": "/products/egg-shape-bath",
+    "to": "/collections/bath-tub",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/egg-shape-bath"
+  },
+  {
+    "from": "/products/espada-bath",
+    "to": "/collections/bath-tub",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/espada-bath"
+  },
+  {
+    "from": "/products/exclusive-basin-mixer",
+    "to": "/collections/basin-mixer",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/exclusive-basin-mixer"
+  },
+  {
+    "from": "/products/freemantle-bath-1690x790x610mm-gloss-white-non-overflow",
+    "to": "/collections/bath-tub",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/freemantle-bath-1690x790x610mm-gloss-white-non-overflow"
+  },
+  {
+    "from": "/products/glamour-basin-mixer",
+    "to": "/collections/basin-mixer",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/glamour-basin-mixer"
+  },
+  {
+    "from": "/products/glamour-combination-mixer",
+    "to": "/collections/combo-mixer",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/glamour-combination-mixer"
+  },
+  {
+    "from": "/products/glamour-wall-mixer",
+    "to": "/collections/wall-mixer",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/glamour-wall-mixer"
+  },
+  {
+    "from": "/products/high-back-bath",
+    "to": "/collections/bath-tub",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/high-back-bath"
+  },
+  {
+    "from": "/products/jeni-sink-mixer",
+    "to": "/collections/kitchen-mixer",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/jeni-sink-mixer"
+  },
+  {
+    "from": "/products/lucia-bath",
+    "to": "/collections/bath-tub",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/lucia-bath"
+  },
+  {
+    "from": "/products/luxury-2-in-1-shower-top-inlet",
+    "to": "/collections/showers",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/luxury-2-in-1-shower-top-inlet"
+  },
+  {
+    "from": "/products/luxury-combination-mixer",
+    "to": "/collections/combo-mixer",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/luxury-combination-mixer"
+  },
+  {
+    "from": "/products/luxury-hand-shower-rail",
+    "to": "/collections/showers",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/luxury-hand-shower-rail"
+  },
+  {
+    "from": "/products/malo-basin-mixer",
+    "to": "/collections/basin-mixer",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/malo-basin-mixer"
+  },
+  {
+    "from": "/products/mimi-hand-shower-rail",
+    "to": "/collections/showers",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/mimi-hand-shower-rail"
+  },
+  {
+    "from": "/products/mosman-basin-mixer",
+    "to": "/collections/basin-mixer",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/mosman-basin-mixer"
+  },
+  {
+    "from": "/products/mosman-combination-mixer-chrome",
+    "to": "/collections/combo-mixer",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/mosman-combination-mixer-chrome"
+  },
+  {
+    "from": "/products/mosman-hand-shower-rail",
+    "to": "/collections/showers",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/mosman-hand-shower-rail"
+  },
+  {
+    "from": "/products/mosman-wall-mixer",
+    "to": "/collections/wall-mixer",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/mosman-wall-mixer"
+  },
+  {
+    "from": "/products/nano-scratch-resistant-sink",
+    "to": "/collections/kitchen-sinks",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/nano-scratch-resistant-sink"
+  },
+  {
+    "from": "/products/parker-combination-mixer",
+    "to": "/collections/combo-mixer",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/parker-combination-mixer"
+  },
+  {
+    "from": "/products/parker-hand-shower-rail",
+    "to": "/collections/showers",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/parker-hand-shower-rail"
+  },
+  {
+    "from": "/products/parker-swivel-bath-spout",
+    "to": "/collections/bath-spouts",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/parker-swivel-bath-spout"
+  },
+  {
+    "from": "/products/parker-wall-mixer",
+    "to": "/collections/wall-mixer",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/parker-wall-mixer"
+  },
+  {
+    "from": "/products/pavilion-corner-fit-bath",
+    "to": "/collections/bath-tub",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/pavilion-corner-fit-bath"
+  },
+  {
+    "from": "/products/piccolo-basin-mixer",
+    "to": "/collections/basin-mixer",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/piccolo-basin-mixer"
+  },
+  {
+    "from": "/products/piccolo-wall-mixer",
+    "to": "/collections/wall-mixer",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/piccolo-wall-mixer"
+  },
+  {
+    "from": "/products/ronda-bath-1350x1350x620mm-gloss-white-overflow",
+    "to": "/collections/bath-tub",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/ronda-bath-1350x1350x620mm-gloss-white-overflow"
+  },
+  {
+    "from": "/products/round-back-to-wall-bath",
+    "to": "/collections/bath-tub",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/round-back-to-wall-bath"
+  },
+  {
+    "from": "/products/sikaceram�-690-elite",
+    "to": "/products/sikaceram-690-elite",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/sikaceram�-690-elite"
+  },
+  {
+    "from": "/products/square-multi-fit-bath",
+    "to": "/collections/bath-tub",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/square-multi-fit-bath"
+  },
+  {
+    "from": "/products/waverly-fluted-ribbed-back-to-walk-bath",
+    "to": "/collections/bath-tub",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/waverly-fluted-ribbed-back-to-walk-bath"
+  },
+  {
+    "from": "/cart",
+    "to": "/enquiry-cart",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/cart"
+  },
+  {
+    "from": "/collections/kitchen-mixer/kitchen-mixer",
+    "to": "/collections/kitchen-mixer",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/collections/kitchen-mixer/Kitchen-Mixer"
+  },
+  {
+    "from": "/collections/tiles/tiles",
+    "to": "/collections/tiles",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/collections/tiles/Tiles"
+  },
+  {
+    "from": "/products/glamour-robe-hook",
+    "to": "/collections/bathroom-accessories",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/glamour-robe-hook"
+  },
+  {
+    "from": "/products/luxury-robe-hook",
+    "to": "/collections/bathroom-accessories",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/luxury-robe-hook"
+  },
+  {
+    "from": "/products/ovo-toilet",
+    "to": "/collections/toilet",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/ovo-toilet"
+  },
+  {
+    "from": "/products/framed-mirror-matte-brushed-nickel",
+    "to": "/collections/bathroom-accessories",
+    "code": 301,
+    "at": "2026-11-24T04:20:37.289Z",
+    "fromRaw": "/products/framed-mirror-matte-brushed-nickel"
+  }
+]
