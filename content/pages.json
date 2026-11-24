@@ -57498,12 +57498,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:36:51.383Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:36:51.383Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3384",
@@ -57515,12 +57516,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:36:51.383Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:36:51.383Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3385",
@@ -57532,12 +57534,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:03.431Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:03.431Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3386",
@@ -57549,12 +57552,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:03.431Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:03.431Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3387",
@@ -57566,12 +57570,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:03.431Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:03.431Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3388",
@@ -57583,12 +57588,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:03.431Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:03.431Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3389",
@@ -57600,12 +57606,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:03.431Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:03.431Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3390",
@@ -57617,12 +57624,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:03.431Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:03.431Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3391",
@@ -57634,12 +57642,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:03.431Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:03.431Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3392",
@@ -57651,12 +57660,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:03.431Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:03.431Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3393",
@@ -57668,12 +57678,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:03.431Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:03.431Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3394",
@@ -57685,12 +57696,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:03.431Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:03.431Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3395",
@@ -57702,12 +57714,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:03.431Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:03.431Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3466",
@@ -57719,12 +57732,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:03.431Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:03.431Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3467",
@@ -57736,12 +57750,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:03.431Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:03.431Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3468",
@@ -57753,12 +57768,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:03.431Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:03.431Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3469",
@@ -57770,12 +57786,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:03.431Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:03.431Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3470",
@@ -57787,12 +57804,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:03.431Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:03.431Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3471",
@@ -57804,12 +57822,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:03.431Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:03.431Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3472",
@@ -57821,12 +57840,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:03.431Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:03.431Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3473",
@@ -57838,12 +57858,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:03.431Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:03.431Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3474",
@@ -57855,12 +57876,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:03.431Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:03.431Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3475",
@@ -57872,12 +57894,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:03.431Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:03.431Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3476",
@@ -57889,12 +57912,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:03.431Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:03.431Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3477",
@@ -57906,12 +57930,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:03.431Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:03.431Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3478",
@@ -57923,12 +57948,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:03.431Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:03.431Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3479",
@@ -57940,12 +57966,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:03.431Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:03.431Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3480",
@@ -57957,12 +57984,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:14.997Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:14.997Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3481",
@@ -57974,12 +58002,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:14.997Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:14.997Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3482",
@@ -57991,12 +58020,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:14.997Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:14.997Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3483",
@@ -58008,12 +58038,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:14.997Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:14.997Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3484",
@@ -58025,12 +58056,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:14.997Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:14.997Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3485",
@@ -58042,12 +58074,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:14.997Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:14.997Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3486",
@@ -58059,12 +58092,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:14.997Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:14.997Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3487",
@@ -58076,12 +58110,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:14.997Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:14.997Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3488",
@@ -58093,12 +58128,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:14.997Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:14.997Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3489",
@@ -58110,12 +58146,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:14.997Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:14.997Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3490",
@@ -58127,12 +58164,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:14.997Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:14.997Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3491",
@@ -58144,12 +58182,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:14.997Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:14.997Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3492",
@@ -58161,12 +58200,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:14.997Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:14.997Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3493",
@@ -58178,12 +58218,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:14.997Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:14.997Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3494",
@@ -58195,12 +58236,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:14.997Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:14.997Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3495",
@@ -58212,12 +58254,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:14.997Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:14.997Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3496",
@@ -58229,12 +58272,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:14.997Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:14.997Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3497",
@@ -58246,12 +58290,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:14.997Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:14.997Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3498",
@@ -58263,12 +58308,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:14.997Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:14.997Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3499",
@@ -58280,12 +58326,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:14.997Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:14.997Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3500",
@@ -58297,12 +58344,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:14.997Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:14.997Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3501",
@@ -58314,12 +58362,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:14.997Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:14.997Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3502",
@@ -58331,12 +58380,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:14.997Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:14.997Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3503",
@@ -58348,12 +58398,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:14.997Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:14.997Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3504",
@@ -58365,12 +58416,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:14.997Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:14.997Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3505",
@@ -58382,12 +58434,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:24.888Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:24.888Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3506",
@@ -58399,12 +58452,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:24.888Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:24.888Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3507",
@@ -58416,12 +58470,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:24.888Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:24.888Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3508",
@@ -58433,12 +58488,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:24.888Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:24.888Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3509",
@@ -58450,12 +58506,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:24.888Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:24.888Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3510",
@@ -58467,12 +58524,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "deleted",
     "category": "Products",
     "createdAt": "2026-11-24T04:37:24.888Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:24.888Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T05:24:06.592Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3511",
