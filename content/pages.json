@@ -57218,7 +57218,7 @@
   },
   {
     "id": "pg-3367",
-    "path": "/collections-marble-look-tiles",
+    "path": "/collections/marble-look-tiles",
     "type": "product-category",
     "title": "Marble Look Tiles Sydney | Calacatta and Statuario Looks",
     "seoTitle": "Marble Look Tiles Sydney | Calacatta and Statuario Looks",
@@ -57226,11 +57226,11 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "category": "Product Categories",
     "createdAt": "2026-11-24T04:36:51.383Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:36:51.383Z",
+    "updatedAt": "2026-11-24T05:07:52.242Z",
     "updatedBy": "joshua"
   },
   {
