@@ -57337,7 +57337,7 @@
   },
   {
     "id": "pg-3374",
-    "path": "/product-335",
+    "path": "/products/335",
     "type": "product",
     "title": "Laticrete 335 | Bonnyrigg Tiles",
     "seoTitle": "Laticrete 335 | Bonnyrigg Tiles",
@@ -57345,11 +57345,11 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "category": "Products",
     "createdAt": "2026-11-24T04:36:51.383Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:36:51.383Z",
+    "updatedAt": "2026-11-24T05:12:07.228Z",
     "updatedBy": "joshua"
   },
   {
