@@ -518,13 +518,6 @@
     "fromRaw": "/collections/tiles/Tiles"
   },
   {
-    "from": "/products/luxury-robe-hook",
-    "to": "/collections/bathroom-accessories",
-    "code": 301,
-    "at": "2026-11-24T04:52:23.132Z",
-    "fromRaw": "/products/luxury-robe-hook"
-  },
-  {
     "from": "/products/ovo-toilet",
     "to": "/collections/toilet",
     "code": 301,
