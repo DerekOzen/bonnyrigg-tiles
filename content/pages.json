@@ -1,7 +1,7 @@
 [
   {
     "id": "pg-21",
-    "path": "/",
+    "path": "/home",
     "type": "page",
     "title": "Home",
     "seoTitle": "Tiles Sydney | Bonnyrigg Tiles Showroom, South West Sydney",
@@ -9,8 +9,8 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "deleted",
-    "updatedAt": "2026-11-24T04:23:53.237Z",
+    "status": "draft",
+    "updatedAt": "2026-11-24T04:31:39.461Z",
     "updatedBy": "joshua",
     "createdAt": "2026-11-19T01:05:24.418Z",
     "createdBy": "derek",
