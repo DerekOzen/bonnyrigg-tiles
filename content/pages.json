@@ -57116,7 +57116,7 @@
   },
   {
     "id": "pg-3361",
-    "path": "/collections-bathroom-ware",
+    "path": "/collections/bathroom-ware",
     "type": "product-category",
     "title": "Bathroom Supplies Sydney | Vanities, Baths, Toilets and More",
     "seoTitle": "Bathroom Supplies Sydney | Vanities, Baths, Toilets and More",
@@ -57124,11 +57124,11 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "category": "Product Categories",
     "createdAt": "2026-11-24T04:36:51.383Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:36:51.383Z",
+    "updatedAt": "2026-11-24T05:03:13.867Z",
     "updatedBy": "joshua"
   },
   {
