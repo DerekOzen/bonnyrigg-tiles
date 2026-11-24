@@ -57286,7 +57286,7 @@
   },
   {
     "id": "pg-3371",
-    "path": "/collections-vanity",
+    "path": "/collections/vanity",
     "type": "product-category",
     "title": "Bathroom Vanities Sydney | Wall Hung and Freestanding",
     "seoTitle": "Bathroom Vanities Sydney | Wall Hung and Freestanding",
@@ -57294,11 +57294,11 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "category": "Product Categories",
     "createdAt": "2026-11-24T04:36:51.383Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:36:51.383Z",
+    "updatedAt": "2026-11-24T05:10:38.426Z",
     "updatedBy": "joshua"
   },
   {
