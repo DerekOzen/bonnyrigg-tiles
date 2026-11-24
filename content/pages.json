@@ -1,7 +1,7 @@
 [
   {
     "id": "pg-21",
-    "path": "/",
+    "path": "/home",
     "type": "page",
     "title": "Home",
     "seoTitle": "Tiles Sydney | Bonnyrigg Tiles Showroom, South West Sydney",
@@ -10,11 +10,11 @@
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
     "status": "published",
-    "updatedAt": "2026-11-24T04:32:17.295Z",
+    "updatedAt": "2026-11-24T04:39:15.836Z",
     "updatedBy": "joshua",
     "createdAt": "2026-11-19T01:05:24.418Z",
     "createdBy": "derek",
-    "isHome": true
+    "isHome": false
   },
   {
     "id": "pg-2",
@@ -57303,7 +57303,7 @@
   },
   {
     "id": "pg-3372",
-    "path": "/index",
+    "path": "/",
     "type": "page",
     "title": "Tiles Sydney | Bonnyrigg Tiles Showroom, South West Sydney",
     "seoTitle": "Tiles Sydney | Bonnyrigg Tiles Showroom, South West Sydney",
@@ -57311,11 +57311,12 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-24T04:36:51.383Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:36:51.383Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-24T04:39:15.836Z",
+    "updatedBy": "joshua",
+    "isHome": true
   },
   {
     "id": "pg-3373",
