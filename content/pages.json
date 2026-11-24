@@ -57184,7 +57184,7 @@
   },
   {
     "id": "pg-3365",
-    "path": "/collections-kitchen-mixer",
+    "path": "/collections/kitchen-mixer",
     "type": "product-category",
     "title": "Kitchen Sink Mixers Sydney | Pull Out Kitchen Taps",
     "seoTitle": "Kitchen Sink Mixers Sydney | Pull Out Kitchen Taps",
@@ -57192,11 +57192,11 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "category": "Product Categories",
     "createdAt": "2026-11-24T04:36:51.383Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:36:51.383Z",
+    "updatedAt": "2026-11-24T05:06:36.644Z",
     "updatedBy": "joshua"
   },
   {
