@@ -1,17 +1,5 @@
 [
   {
-    "id": "js-mwu9sy76-cngve",
-    "name": "BT Christmas Closure",
-    "enabled": true,
-    "type": "inline",
-    "code": "<script>\n/* Bonnyrigg Tiles: Christmas closure notice (last trading day 19 December 2026, reopening 11 January 2027).\n   Shows in the announcement bar and under every opening hours list, and removes itself at midnight on 11 January 2027 (Sydney time). */\n(function(){\n  if(window.__btXmas){return;} window.__btXmas=1;\n  var END=Date.UTC(2027,0,10,13,0,0);                 /* 11 January 2027 00:00 in Sydney (AEDT, UTC+11) */\n  if(Date.now()>=END){return;}\n  var LINE='Christmas closure: last trading day Saturday 19 December, back Monday 11 January';\n  var DT='Christmas closure', DD='Closed 20 Dec to 10 Jan';\n  function run(){\n    [].forEach.call(document.querySelectorAll('.bt-ann-set'),function(p){\n      if(p.querySelector('.bt-xmas')){return;}\n      var s=document.createElement('span'); s.className='bt-xmas'; s.textContent=LINE; p.insertBefore(s,p.firstChild);\n    });\n    [].forEach.call(document.querySelectorAll('dl.bt-f-hours, dl.bt-hours, dl.nf-hours'),function(dl){\n      if(dl.querySelector('.bt-xmas-dt')){return;}\n      var dt=document.createElement('dt'), dd=document.createElement('dd'); dt.className='bt-xmas-dt'; dt.textContent=DT; dd.textContent=DD;\n      if(dl.querySelector(':scope > div')){var w=document.createElement('div'); w.appendChild(dt); w.appendChild(dd); dl.appendChild(w);}\n      else{dl.appendChild(dt); dl.appendChild(dd);}\n    });\n  }\n  if(document.readyState==='loading'){document.addEventListener('DOMContentLoaded',run);}else{run();}\n})();\n</script>",
-    "placement": "header",
-    "scope": "all",
-    "pages": [],
-    "autoInject": true,
-    "updatedAt": "2026-11-24T09:52:51.630Z"
-  },
-  {
     "id": "js-mwt9xdil-q9yn8",
     "name": "SEARCH",
     "enabled": true,
@@ -21,7 +9,7 @@
     "scope": "all",
     "pages": [],
     "autoInject": true,
-    "updatedAt": "2026-11-24T09:52:51.630Z"
+    "updatedAt": "2026-11-24T09:53:09.160Z"
   },
   {
     "id": "js-mwerasf3-hqnrv",
@@ -33,6 +21,6 @@
     "scope": "all",
     "pages": [],
     "autoInject": true,
-    "updatedAt": "2026-11-24T09:52:51.630Z"
+    "updatedAt": "2026-11-24T09:53:09.160Z"
   }
 ]
