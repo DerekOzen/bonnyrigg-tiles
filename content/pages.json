@@ -57473,7 +57473,7 @@
   },
   {
     "id": "pg-3382",
-    "path": "/product-builder-white-gloss-ceramic-wall-300x600-1-44m2-per-box",
+    "path": "/products/builder-white-gloss-ceramic-wall-300x600-1-44m2-per-box",
     "type": "product",
     "title": "Builders White Gloss Solid Colour Tile | Bonnyrigg Tiles",
     "seoTitle": "Builders White Gloss Solid Colour Tile | Bonnyrigg Tiles",
@@ -57481,11 +57481,11 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "category": "Products",
     "createdAt": "2026-11-24T04:36:51.383Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:36:51.383Z",
+    "updatedAt": "2026-11-24T05:19:05.413Z",
     "updatedBy": "joshua"
   },
   {
