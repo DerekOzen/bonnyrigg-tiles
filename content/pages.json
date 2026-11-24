@@ -59477,5 +59477,21 @@
     "createdBy": "joshua",
     "updatedAt": "2026-11-24T07:25:03.483Z",
     "updatedBy": "joshua"
+  },
+  {
+    "id": "pg-3570",
+    "path": "/tile-visualiser",
+    "type": "page",
+    "title": "Tile Visualiser | See Tiles in Your Room | Bonnyrigg Tiles",
+    "seoTitle": "Tile Visualiser | See Tiles in Your Room | Bonnyrigg Tiles",
+    "seoDescription": "Try Bonnyrigg Tiles in a bathroom, kitchen or alfresco scene. Change the tile, size, layout and grout colour, then add the look to your enquiry.",
+    "layout": "mockup",
+    "headerPartId": "header-4",
+    "footerPartId": "footer-5",
+    "status": "draft",
+    "createdAt": "2026-11-24T07:43:24.979Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-11-24T07:43:24.979Z",
+    "updatedBy": "joshua"
   }
 ]
