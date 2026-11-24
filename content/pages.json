@@ -57235,7 +57235,7 @@
   },
   {
     "id": "pg-3368",
-    "path": "/collections-stone-look-tiles",
+    "path": "/collections/stone-look-tiles",
     "type": "product-category",
     "title": "Stone Look Tiles Sydney | Travertine and Sandstone Looks",
     "seoTitle": "Stone Look Tiles Sydney | Travertine and Sandstone Looks",
@@ -57243,11 +57243,11 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "category": "Product Categories",
     "createdAt": "2026-11-24T04:36:51.383Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:36:51.383Z",
+    "updatedAt": "2026-11-24T05:08:24.165Z",
     "updatedBy": "joshua"
   },
   {
