@@ -59511,5 +59511,21 @@
     "createdBy": "derek",
     "updatedAt": "2026-11-24T09:54:34.538Z",
     "updatedBy": "derek"
+  },
+  {
+    "id": "pg-3572",
+    "path": "/search",
+    "type": "page",
+    "title": "Search Results | Bonnyrigg Tiles",
+    "seoTitle": "Search Results | Bonnyrigg Tiles",
+    "seoDescription": "Search results across tiles, bathroomware, tapware, kitchen and trade supplies at Bonnyrigg Tiles.",
+    "layout": "mockup",
+    "headerPartId": "header-4",
+    "footerPartId": "footer-5",
+    "status": "draft",
+    "createdAt": "2026-11-24T09:59:57.892Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-24T09:59:57.892Z",
+    "updatedBy": "derek"
   }
 ]
