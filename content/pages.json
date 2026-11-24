@@ -18,7 +18,7 @@
   },
   {
     "id": "pg-2",
-    "path": "/about",
+    "path": "/",
     "type": "page",
     "title": "About Bonnyrigg Tiles | Family-Owned Sydney Tile Showroom",
     "seoTitle": "About Bonnyrigg Tiles | Family-Owned Sydney Tile Showroom",
@@ -29,8 +29,9 @@
     "status": "published",
     "createdAt": "2026-11-19T01:08:39.441Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-23T13:32:04.549Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-24T04:24:32.057Z",
+    "updatedBy": "joshua",
+    "isHome": true
   },
   {
     "id": "pg-4",
