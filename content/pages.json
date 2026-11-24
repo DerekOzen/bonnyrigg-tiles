@@ -57150,7 +57150,7 @@
   },
   {
     "id": "pg-3363",
-    "path": "/collections-floor-tiles",
+    "path": "/collections/floor-tiles",
     "type": "product-category",
     "title": "Floor Tiles Sydney | Porcelain and Ceramic Floor Tiles",
     "seoTitle": "Floor Tiles Sydney | Porcelain and Ceramic Floor Tiles",
@@ -57158,11 +57158,11 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "category": "Product Categories",
     "createdAt": "2026-11-24T04:36:51.383Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:36:51.383Z",
+    "updatedAt": "2026-11-24T05:05:38.188Z",
     "updatedBy": "joshua"
   },
   {
