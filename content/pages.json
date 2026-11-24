@@ -58484,10 +58484,10 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-24T04:37:24.888Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:37:24.888Z",
+    "updatedAt": "2026-11-24T05:02:08.842Z",
     "updatedBy": "joshua"
   }
 ]
