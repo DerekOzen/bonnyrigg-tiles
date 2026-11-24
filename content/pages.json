@@ -57371,7 +57371,7 @@
   },
   {
     "id": "pg-3376",
-    "path": "/product-alps",
+    "path": "/products/alps",
     "type": "product",
     "title": "Alps Stone Look Tile | Bonnyrigg Tiles",
     "seoTitle": "Alps Stone Look Tile | Bonnyrigg Tiles",
@@ -57379,11 +57379,11 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "category": "Products",
     "createdAt": "2026-11-24T04:36:51.383Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-24T04:36:51.383Z",
+    "updatedAt": "2026-11-24T05:13:49.390Z",
     "updatedBy": "joshua"
   },
   {
