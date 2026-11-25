@@ -11,12 +11,12 @@
   "country": "AU",
   "areaServed": "NSW",
   "openingHours": "Mo-Fr 09:00-17:00",
-  "priceRange": "$$",
-  "latitude": "",
-  "longitude": "",
-  "logo": "",
-  "image": "",
-  "facebook": "",
-  "instagram": "",
-  "linkedin": ""
+  "priceRange": "$$-$$$$",
+  "latitude": "-33.884826560555894",
+  "longitude": "150.88982735582076",
+  "logo": "https://bonnyriggtiles.com.au/uploads/bonnyrigg-tiles-logo.png",
+  "image": "https://bonnyriggtiles.com.au/uploads/contemporary-sydney-kitchen-with-large-format-marble-look-floor.jpg",
+  "facebook": "https://www.facebook.com/Bonnyriggtiles",
+  "instagram": "https://www.instagram.com/bonnyriggtiles/",
+  "linkedin": "https://www.linkedin.com/company/bonnyrigg-tiles"
 }
