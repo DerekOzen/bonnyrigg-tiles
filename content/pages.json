@@ -440,8 +440,10 @@
     "category": "Products",
     "createdAt": "2026-11-20T11:39:24.740Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-23T13:33:08.112Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-25T06:34:10.792Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/asa-smooth-white-grout.webp",
+    "featuredImageAlt": "ASA Smooth White Grout"
   },
   {
     "id": "pg-109",
