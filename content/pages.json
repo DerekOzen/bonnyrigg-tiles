@@ -12,9 +12,11 @@
     "status": "published",
     "createdAt": "2026-11-19T01:08:39.441Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-24T05:58:06.099Z",
-    "updatedBy": "joshua",
-    "isHome": false
+    "updatedAt": "2026-11-25T06:29:01.182Z",
+    "updatedBy": "sebastian",
+    "isHome": false,
+    "featuredImage": "/uploads/open-plan-living-room-with-large-format-stone-look-floor-tiles-a.jpg",
+    "featuredImageAlt": "Open plan living room with large format stone look floor tiles and morning light"
   },
   {
     "id": "pg-4",
