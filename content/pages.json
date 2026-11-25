@@ -240,8 +240,10 @@
     "status": "published",
     "createdAt": "2026-11-20T11:35:56.668Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-23T13:32:04.549Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-25T06:30:47.574Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/wet-pendulum-slip-test-on-a-floor-tile.webp",
+    "featuredImageAlt": "Wet pendulum slip test being carried out on a floor tile"
   },
   {
     "id": "pg-56",
