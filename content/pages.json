@@ -222,8 +222,10 @@
     "status": "published",
     "createdAt": "2026-11-20T11:35:56.668Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-23T13:32:04.549Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-25T06:30:37.581Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/common-tile-sizes-laid-out-for-comparison.webp",
+    "featuredImageAlt": "Common tile sizes laid out for comparison"
   },
   {
     "id": "pg-55",
