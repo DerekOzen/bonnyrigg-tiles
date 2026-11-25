@@ -168,8 +168,10 @@
     "status": "published",
     "createdAt": "2026-11-20T11:35:56.668Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-23T13:32:04.549Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-25T06:30:05.813Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/rectified-tile-edge-close-up.webp",
+    "featuredImageAlt": "Close up of the square edge of a rectified porcelain tile"
   },
   {
     "id": "pg-52",
