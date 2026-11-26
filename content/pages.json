@@ -934,8 +934,10 @@
     "category": "Products",
     "createdAt": "2026-11-20T11:42:06.130Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-23T13:33:08.112Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-26T06:06:21.175Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/enrich-n-seal.webp",
+    "featuredImageAlt": "Enrich N Seal by Aqua Mix"
   },
   {
     "id": "pg-146",
