@@ -630,8 +630,10 @@
     "category": "Products",
     "createdAt": "2026-11-20T11:39:57.359Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-23T13:33:08.112Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-26T03:25:53.592Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/builders-cement-20kg.webp",
+    "featuredImageAlt": "Builders Cement 20kg by Boral"
   },
   {
     "id": "pg-125",
