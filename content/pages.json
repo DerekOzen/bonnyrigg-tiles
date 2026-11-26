@@ -1694,8 +1694,10 @@
     "category": "Products",
     "createdAt": "2026-11-20T11:44:29.054Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-23T13:33:08.112Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-26T22:06:51.319Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/nxt21-grates.webp",
+    "featuredImageAlt": "NXT21 Grates, Silk Silver"
   },
   {
     "id": "pg-201",
