@@ -2321,8 +2321,10 @@
     "category": "Products",
     "createdAt": "2026-11-20T11:45:45.983Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-23T13:33:08.112Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-26T22:19:35.584Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/safe-acid.webp",
+    "featuredImageAlt": "Safe Acid"
   },
   {
     "id": "pg-254",
