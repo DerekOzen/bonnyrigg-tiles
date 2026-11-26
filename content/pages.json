@@ -1333,8 +1333,10 @@
     "category": "Products",
     "createdAt": "2026-11-20T11:43:15.366Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-23T13:33:08.112Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-26T06:15:17.060Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/lambswool.webp",
+    "featuredImageAlt": "Lambswool by Spirit"
   },
   {
     "id": "pg-170",
