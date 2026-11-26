@@ -649,8 +649,10 @@
     "category": "Products",
     "createdAt": "2026-11-20T11:39:57.359Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-23T13:33:08.112Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-26T05:31:19.135Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/california-marble-look-tile-2.jpg",
+    "featuredImageAlt": "California marble look tile"
   },
   {
     "id": "pg-127",
