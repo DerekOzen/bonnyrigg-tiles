@@ -915,8 +915,10 @@
     "category": "Products",
     "createdAt": "2026-11-20T11:42:06.130Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-23T13:33:08.112Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-26T06:05:59.164Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/elivia-bath.webp",
+    "featuredImageAlt": "Elivia Bath by Poseidon"
   },
   {
     "id": "pg-145",
