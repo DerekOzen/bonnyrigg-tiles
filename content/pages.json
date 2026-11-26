@@ -953,8 +953,10 @@
     "category": "Products",
     "createdAt": "2026-11-20T11:42:06.130Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-23T13:33:08.112Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-26T06:06:44.122Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/everest-marble-look-tile-2.jpg",
+    "featuredImageAlt": "Everest marble look tile"
   },
   {
     "id": "pg-147",
