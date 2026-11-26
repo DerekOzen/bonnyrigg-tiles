@@ -1276,8 +1276,10 @@
     "category": "Products",
     "createdAt": "2026-11-20T11:42:42.984Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-23T13:33:08.112Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-26T06:14:05.422Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/davco-k10-plus.webp",
+    "featuredImageAlt": "Davco K10 Plus"
   },
   {
     "id": "pg-167",
