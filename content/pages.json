@@ -3119,8 +3119,10 @@
     "category": "Products",
     "createdAt": "2026-11-20T11:46:55.233Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-23T13:33:08.112Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-26T22:26:04.925Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/veda-bath.webp",
+    "featuredImageAlt": "Veda Bath"
   },
   {
     "id": "pg-330",
