@@ -2682,8 +2682,10 @@
     "category": "Products",
     "createdAt": "2026-11-20T11:46:19.557Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-23T13:33:08.112Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-26T22:22:31.021Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/smart-waste-115x115x90.webp",
+    "featuredImageAlt": "Smart Waste 115x115x90, Chrome"
   },
   {
     "id": "pg-279",
