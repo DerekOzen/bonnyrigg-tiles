@@ -1,5 +1,17 @@
 [
   {
+    "id": "js-mwyd1aea-op9eb",
+    "name": "Social Icons on Footer",
+    "enabled": true,
+    "type": "inline",
+    "code": "/* Bonnyrigg Tiles: footer social icons (Facebook, Instagram, Google Business Profile).\n   Adds a \"Follow us\" row under the VIP list sign up in the global footer.\n   Safe to load anywhere: it waits for the page, runs once, and puts the row back if the page re-renders the footer. */\n(function () {\n  if (window.btFooterSocial) { return; }\n  window.btFooterSocial = true;\n\n  var LINKS = [\n    { name: 'Facebook', url: 'https://www.facebook.com/Bonnyriggtiles',\n      icon: '<path d=\"M13.5 21v-7.6h2.6l.4-3h-3V8.5c0-.9.3-1.5 1.5-1.5h1.6V4.3c-.3 0-1.2-.1-2.3-.1-2.3 0-3.9 1.4-3.9 4v2.2H7.8v3h2.6V21h3.1z\"/>' },\n    { name: 'Instagram', url: 'https://www.instagram.com/bonnyriggtiles/',\n      icon: '<rect x=\"3.5\" y=\"3.5\" width=\"17\" height=\"17\" rx=\"4.8\" class=\"bt-soc-line\"/><circle cx=\"12\" cy=\"12\" r=\"3.9\" class=\"bt-soc-line\"/><circle cx=\"17.2\" cy=\"6.8\" r=\"1.1\"/>' },\n    { name: 'Google', label: 'Bonnyrigg Tiles on Google, see our reviews', url: 'https://share.google/qbRLMvbRxkBVsabQi',\n      icon: '<path d=\"M20.6 10.3h-8.4v3.4h4.8c-.5 2.3-2.4 3.6-4.8 3.6-2.9 0-5.3-2.4-5.3-5.3s2.4-5.3 5.3-5.3c1.3 0 2.5.5 3.4 1.3l2.5-2.5C16.6 4 14.5 3.1 12.2 3.1 7.3 3.1 3.3 7.1 3.3 12s4 8.9 8.9 8.9c5.1 0 8.6-3.6 8.6-8.7 0-.6-.1-1.3-.2-1.9z\"/>' }\n  ];\n\n  var CSS = ''\n    + '.bt-footer .bt-f-soc{margin-top:26px}'\n    + '.bt-footer .bt-f-soc .bt-f-h{margin-bottom:12px}'\n    + '.bt-footer .bt-f-soc ul{display:flex;flex-wrap:wrap;gap:10px;list-style:none;margin:0;padding:0}'\n    + '.bt-footer .bt-f-soc a{position:relative;display:inline-flex;align-items:center;justify-content:center;width:46px;height:46px;border:1px solid var(--line,rgba(174,211,245,.2));background:rgba(255,255,255,.06);color:#fff;-webkit-backdrop-filter:blur(8px);backdrop-filter:blur(8px);transition:background .4s cubic-bezier(.2,.7,.2,1),color .4s cubic-bezier(.2,.7,.2,1),border-color .4s cubic-bezier(.2,.7,.2,1),transform .5s cubic-bezier(.2,.7,.2,1)}'\n    + '.bt-footer .bt-f-soc a::after{content:\"\";position:absolute;inset:-5px;border:1px solid var(--pale,#AED3F5);opacity:0;transform:rotate(45deg) scale(.6);transition:opacity .4s cubic-bezier(.2,.7,.2,1),transform .5s cubic-bezier(.2,.7,.2,1);pointer-events:none}'\n    + '.bt-footer .bt-f-soc a:hover{background:#fff;color:var(--navy,#004877);border-color:#fff;transform:translateY(-3px)}'\n    + '.bt-footer .bt-f-soc a:hover::after{opacity:.55;transform:rotate(45deg) scale(.9)}'\n    + '.bt-footer .bt-f-soc a:focus-visible{outline:2px solid var(--pale,#AED3F5);outline-offset:3px}'\n    + '.bt-footer .bt-f-soc svg{width:20px;height:20px;fill:currentColor;stroke:none}'\n    + '.bt-footer .bt-f-soc svg .bt-soc-line{fill:none;stroke:currentColor;stroke-width:1.7}'\n    + '.bt-footer .bt-f-soc .bt-soc-sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}'\n    + '@media (prefers-reduced-motion:reduce){.bt-footer .bt-f-soc a,.bt-footer .bt-f-soc a::after{transition:none}.bt-footer .bt-f-soc a:hover{transform:none}}';\n\n  function markup() {\n    var items = LINKS.map(function (l) {\n      var label = l.label || ('Bonnyrigg Tiles on ' + l.name);\n      return '<li><a href=\"' + l.url + '\" target=\"_blank\" rel=\"noopener\" aria-label=\"' + label + ' (opens in a new tab)\" title=\"' + l.name + '\">'\n        + '<svg viewBox=\"0 0 24 24\" aria-hidden=\"true\" focusable=\"false\">' + l.icon + '</svg>'\n        + '<span class=\"bt-soc-sr\">' + l.name + '</span></a></li>';\n    }).join('');\n    return '<p class=\"bt-f-h\">Follow us</p><ul>' + items + '</ul>';\n  }\n\n  function addStyle() {\n    if (document.getElementById('bt-f-soc-css')) { return; }\n    var st = document.createElement('style');\n    st.id = 'bt-f-soc-css';\n    st.textContent = CSS;\n    (document.head || document.documentElement).appendChild(st);\n  }\n\n  function place() {\n    var footer = document.querySelector('.bt-footer');\n    if (!footer || footer.querySelector('.bt-f-soc')) { return; }\n    var spot = footer.querySelector('.bt-f-brand') || footer.querySelector('.bt-f-visit');\n    if (!spot) { return; }\n    addStyle();\n    var box = document.createElement('div');\n    box.className = 'bt-f-soc';\n    box.innerHTML = markup();\n    spot.appendChild(box);\n  }\n\n  function start() {\n    place();\n    /* the site can redraw the footer after load; put the icons back if that happens */\n    if ('MutationObserver' in window) {\n      var queued = false;\n      new MutationObserver(function () {\n        if (queued) { return; }\n        queued = true;\n        setTimeout(function () { queued = false; place(); }, 60);\n      }).observe(document.body, { childList: true, subtree: true });\n    }\n  }\n\n  if (document.readyState === 'loading') { document.addEventListener('DOMContentLoaded', start); }\n  else { start(); }\n})();",
+    "placement": "footer",
+    "scope": "all",
+    "pages": [],
+    "autoInject": true,
+    "updatedAt": "2026-11-27T02:28:09.715Z"
+  },
+  {
     "id": "js-mwt9xdil-q9yn8",
     "name": "SEARCH",
     "enabled": true,
@@ -9,7 +21,7 @@
     "scope": "all",
     "pages": [],
     "autoInject": true,
-    "updatedAt": "2026-11-25T22:04:34.682Z"
+    "updatedAt": "2026-11-27T02:28:09.715Z"
   },
   {
     "id": "js-mwerasf3-hqnrv",
@@ -21,6 +33,6 @@
     "scope": "all",
     "pages": [],
     "autoInject": true,
-    "updatedAt": "2026-11-25T22:04:34.682Z"
+    "updatedAt": "2026-11-27T02:28:09.715Z"
   }
 ]
