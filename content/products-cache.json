@@ -35,7 +35,7 @@
       "sku": "63000",
       "brand": "",
       "category": "Products",
-      "price": 15,
+      "price": 17,
       "salePrice": null,
       "stock": "instock",
       "priceText": "$17",
@@ -49659,5 +49659,5 @@
     "pg-3577"
   ],
   "complete": true,
-  "builtAt": "2026-11-28T16:07:52.077Z"
+  "builtAt": "2026-11-28T16:20:19.064Z"
 }
