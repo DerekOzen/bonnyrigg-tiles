@@ -1,5 +1,17 @@
 [
   {
+    "id": "js-mx0iifp4-5cvtg",
+    "name": "Trailing slash on all internal links",
+    "enabled": true,
+    "type": "inline",
+    "code": "/* Bonnyrigg Tiles: adds the trailing slash to every internal link (menus, mega menu, product and collection cards, search results).\n   Pages live at /path/, so links without the slash were being redirected. Added 29 Nov 2026. */\n(function(){\n  if(window.__btSlash){return;} window.__btSlash=1;\n  var host=location.hostname;\n  function fix(a){\n    if(!a||a.tagName!=='A'){return;}\n    var h=a.getAttribute('href'); if(!h){return;}\n    var pre='';\n    if(/^https?:\\/\\//i.test(h)){\n      try{ var u=new URL(h); var hn=u.hostname.replace(/^www\\./,''); if(u.hostname!==host && hn!=='bonnyriggtiles.com.au'){return;} pre=u.origin; h=u.pathname+u.search+u.hash; }catch(e){return;}\n    } else if(h.charAt(0)!=='/'||h.charAt(1)==='/'){return;}\n    var m=h.match(/^([^?#]*)(.*)$/), p=m[1];\n    if(p===''||p==='/'||p.slice(-1)==='/'||/\\.[a-z0-9]{2,5}$/i.test(p)||/^\\/(api|cdn-cgi|custom-js|uploads)\\//.test(p)){return;}\n    a.setAttribute('href',pre+p+'/'+m[2]);\n  }\n  function run(root){\n    if(root.tagName==='A'){fix(root);}\n    if(root.querySelectorAll){ var l=root.querySelectorAll('a[href]'); for(var i=0;i<l.length;i++){fix(l[i]);} }\n  }\n  run(document);\n  new MutationObserver(function(ms){\n    ms.forEach(function(m){\n      if(m.type==='attributes'){fix(m.target);}\n      else { m.addedNodes.forEach(function(n){ if(n.nodeType===1){run(n);} }); }\n    });\n  }).observe(document.documentElement,{childList:true,subtree:true,attributes:true,attributeFilter:['href']});\n})();",
+    "placement": "footer",
+    "scope": "all",
+    "pages": [],
+    "autoInject": true,
+    "updatedAt": "2026-11-28T14:35:41.348Z"
+  },
+  {
     "id": "js-mwyd1aea-op9eb",
     "name": "Social Icons on Footer",
     "enabled": true,
@@ -9,7 +21,7 @@
     "scope": "all",
     "pages": [],
     "autoInject": true,
-    "updatedAt": "2026-11-27T02:47:12.957Z"
+    "updatedAt": "2026-11-28T14:35:41.348Z"
   },
   {
     "id": "js-mwt9xdil-q9yn8",
@@ -21,7 +33,7 @@
     "scope": "all",
     "pages": [],
     "autoInject": true,
-    "updatedAt": "2026-11-27T02:47:12.957Z"
+    "updatedAt": "2026-11-28T14:35:41.348Z"
   },
   {
     "id": "js-mwerasf3-hqnrv",
@@ -33,6 +45,6 @@
     "scope": "all",
     "pages": [],
     "autoInject": true,
-    "updatedAt": "2026-11-27T02:47:12.957Z"
+    "updatedAt": "2026-11-28T14:35:41.348Z"
   }
 ]
